@@ -1,0 +1,197 @@
+{
+ "date": "2026-10-18",
+ "requests_total": 12903,
+ "by_type": {
+  "human": 11258,
+  "bot": 1523,
+  "own": 4,
+  "script": 0,
+  "other": 62,
+  "empty": 56
+ },
+ "unique_human_ips": 219,
+ "unique_bot_ips": 98,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 19,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 76,
+   "requests": 10352
+  },
+  "HK": {
+   "ips": 5,
+   "requests": 176
+  },
+  "CN": {
+   "ips": 22,
+   "requests": 195
+  },
+  "QA": {
+   "ips": 1,
+   "requests": 281
+  },
+  "PL": {
+   "ips": 1,
+   "requests": 180
+  },
+  "IN": {
+   "ips": 2,
+   "requests": 21
+  },
+  "DE": {
+   "ips": 13,
+   "requests": 16
+  },
+  "BE": {
+   "ips": 5,
+   "requests": 7
+  },
+  "RO": {
+   "ips": 1,
+   "requests": 3
+  },
+  "NL": {
+   "ips": 2,
+   "requests": 4
+  },
+  "GB": {
+   "ips": 2,
+   "requests": 28
+  },
+  "CA": {
+   "ips": 4,
+   "requests": 166
+  },
+  "SG": {
+   "ips": 48,
+   "requests": 147
+  },
+  "BR": {
+   "ips": 9,
+   "requests": 13
+  },
+  "SE": {
+   "ips": 6,
+   "requests": 6
+  },
+  "JP": {
+   "ips": 5,
+   "requests": 5
+  },
+  "KR": {
+   "ips": 6,
+   "requests": 8
+  },
+  "MX": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BD": {
+   "ips": 2,
+   "requests": 2
+  },
+  "LB": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TH": {
+   "ips": 2,
+   "requests": 2
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VN": {
+   "ips": 3,
+   "requests": 3
+  },
+  "FI": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   17
+  ],
+  [
+   "/news/",
+   12
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   12
+  ],
+  [
+   "/timeline/",
+   10
+  ],
+  [
+   "/news/assets/css/theme.css",
+   9
+  ],
+  [
+   "/news/letter.html",
+   8
+  ],
+  [
+   "/contact",
+   8
+  ],
+  [
+   "/news/glossary/glossary.js",
+   7
+  ],
+  [
+   "/news/2026-06-11",
+   7
+  ],
+  [
+   "/news/assets/css/main.css",
+   7
+  ],
+  [
+   "/news/2026-10/2026-10-17.html",
+   7
+  ],
+  [
+   "/news/assets/fonts/jetbrains-mono-variable.woff2",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-29.display.webp",
+   7
+  ],
+  [
+   "/news/assets/fonts/inter-variable.woff2",
+   7
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   7
+  ],
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   7
+  ],
+  [
+   "/news/2026-10-17",
+   7
+  ],
+  [
+   "/news/glossary/glossary.css",
+   7
+  ],
+  [
+   "/news/2026-10-06",
+   7
+  ]
+ ]
+}

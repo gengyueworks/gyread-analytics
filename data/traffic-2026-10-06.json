@@ -1,0 +1,193 @@
+{
+ "date": "2026-10-06",
+ "requests_total": 11576,
+ "by_type": {
+  "human": 8263,
+  "bot": 3016,
+  "own": 0,
+  "script": 0,
+  "other": 233,
+  "empty": 64
+ },
+ "unique_human_ips": 185,
+ "unique_bot_ips": 92,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 18,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 48,
+   "requests": 8676
+  },
+  "CN": {
+   "ips": 9,
+   "requests": 1282
+  },
+  "SG": {
+   "ips": 80,
+   "requests": 277
+  },
+  "TW": {
+   "ips": 1,
+   "requests": 21
+  },
+  "JP": {
+   "ips": 6,
+   "requests": 47
+  },
+  "BE": {
+   "ips": 2,
+   "requests": 6
+  },
+  "GB": {
+   "ips": 2,
+   "requests": 39
+  },
+  "BR": {
+   "ips": 7,
+   "requests": 27
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 2
+  },
+  "KR": {
+   "ips": 6,
+   "requests": 7
+  },
+  "DE": {
+   "ips": 4,
+   "requests": 382
+  },
+  "BO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "IS": {
+   "ips": 1,
+   "requests": 2
+  },
+  "SE": {
+   "ips": 4,
+   "requests": 4
+  },
+  "HK": {
+   "ips": 5,
+   "requests": 7
+  },
+  "JO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "NL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "RO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "EC": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "KE": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   14
+  ],
+  [
+   "/guide/pay",
+   10
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   9
+  ],
+  [
+   "/timeline/",
+   9
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   9
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   9
+  ],
+  [
+   "/assets/covers/cover-ncr-vault.webp",
+   9
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   8
+  ],
+  [
+   "/assets/apod/apod-pool-27.webp",
+   8
+  ],
+  [
+   "/pricing",
+   8
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   8
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   7
+  ],
+  [
+   "/assets/apod/apod-pool-17.webp",
+   7
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   7
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   7
+  ],
+  [
+   "/assets/apod/apod-pool-14.webp",
+   7
+  ],
+  [
+   "/assets/apod/apod-pool-01.webp",
+   7
+  ],
+  [
+   "/contact",
+   6
+  ],
+  [
+   "/assets/apod/apod-pool-29.webp",
+   6
+  ],
+  [
+   "/refund",
+   6
+  ]
+ ]
+}

@@ -1,0 +1,181 @@
+{
+ "date": "2026-10-05",
+ "requests_total": 3783,
+ "by_type": {
+  "human": 2445,
+  "bot": 1095,
+  "own": 0,
+  "script": 0,
+  "other": 202,
+  "empty": 41
+ },
+ "unique_human_ips": 163,
+ "unique_bot_ips": 341,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 16,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 39,
+   "requests": 1566
+  },
+  "SG": {
+   "ips": 70,
+   "requests": 184
+  },
+  "JP": {
+   "ips": 8,
+   "requests": 91
+  },
+  "IN": {
+   "ips": 1,
+   "requests": 21
+  },
+  "CN": {
+   "ips": 9,
+   "requests": 15
+  },
+  "HK": {
+   "ips": 3,
+   "requests": 4
+  },
+  "FR": {
+   "ips": 1,
+   "requests": 2
+  },
+  "DE": {
+   "ips": 6,
+   "requests": 9
+  },
+  "BE": {
+   "ips": 5,
+   "requests": 6
+  },
+  "GB": {
+   "ips": 1,
+   "requests": 2
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 2
+  },
+  "TH": {
+   "ips": 3,
+   "requests": 4
+  },
+  "BR": {
+   "ips": 5,
+   "requests": 5
+  },
+  "NL": {
+   "ips": 3,
+   "requests": 24
+  },
+  "KR": {
+   "ips": 3,
+   "requests": 3
+  },
+  "AE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ID": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FI": {
+   "ips": 1,
+   "requests": 1
+  },
+  "RO": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   12
+  ],
+  [
+   "/assets/cobe.js",
+   5
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   5
+  ],
+  [
+   "/assets/covers/cover-ncr-vault.webp",
+   5
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   4
+  ],
+  [
+   "/assets/apod/apod-pool-27.webp",
+   4
+  ],
+  [
+   "/favicon.ico",
+   4
+  ],
+  [
+   "/timeline/",
+   3
+  ],
+  [
+   "/assets/apod/apod-pool-29.webp",
+   3
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   3
+  ],
+  [
+   "/ncr/",
+   3
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   3
+  ],
+  [
+   "/assets/apod/apod-pool-31.webp",
+   3
+  ],
+  [
+   "/assets/apod/apod-pool-01.webp",
+   3
+  ],
+  [
+   "/pricing",
+   3
+  ],
+  [
+   "/robots.txt",
+   3
+  ],
+  [
+   "/account",
+   2
+  ],
+  [
+   "/news/2026-09/2026-09-23",
+   2
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   2
+  ],
+  [
+   "/news/2026-09/2026-09-23.html",
+   2
+  ]
+ ]
+}

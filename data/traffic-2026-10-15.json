@@ -1,0 +1,365 @@
+{
+ "date": "2026-10-15",
+ "requests_total": 7263,
+ "by_type": {
+  "human": 5222,
+  "bot": 1885,
+  "own": 0,
+  "script": 0,
+  "other": 104,
+  "empty": 52
+ },
+ "unique_human_ips": 788,
+ "unique_bot_ips": 68,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 4,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 400,
+   "requests": 6228
+  },
+  "SG": {
+   "ips": 146,
+   "requests": 162
+  },
+  "CA": {
+   "ips": 6,
+   "requests": 283
+  },
+  "CN": {
+   "ips": 17,
+   "requests": 28
+  },
+  "BE": {
+   "ips": 5,
+   "requests": 9
+  },
+  "DE": {
+   "ips": 11,
+   "requests": 16
+  },
+  "BR": {
+   "ips": 59,
+   "requests": 60
+  },
+  "ID": {
+   "ips": 6,
+   "requests": 7
+  },
+  "EC": {
+   "ips": 8,
+   "requests": 8
+  },
+  "SA": {
+   "ips": 2,
+   "requests": 2
+  },
+  "VN": {
+   "ips": 5,
+   "requests": 5
+  },
+  "JP": {
+   "ips": 6,
+   "requests": 6
+  },
+  "HK": {
+   "ips": 4,
+   "requests": 4
+  },
+  "CO": {
+   "ips": 8,
+   "requests": 8
+  },
+  "MX": {
+   "ips": 4,
+   "requests": 4
+  },
+  "MY": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "AR": {
+   "ips": 13,
+   "requests": 13
+  },
+  "PE": {
+   "ips": 8,
+   "requests": 8
+  },
+  "VE": {
+   "ips": 3,
+   "requests": 3
+  },
+  "ZA": {
+   "ips": 2,
+   "requests": 3
+  },
+  "IN": {
+   "ips": 3,
+   "requests": 3
+  },
+  "AZ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "IT": {
+   "ips": 4,
+   "requests": 4
+  },
+  "IR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "KR": {
+   "ips": 3,
+   "requests": 3
+  },
+  "RU": {
+   "ips": 3,
+   "requests": 3
+  },
+  "TW": {
+   "ips": 1,
+   "requests": 1
+  },
+  "DO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TR": {
+   "ips": 5,
+   "requests": 5
+  },
+  "SI": {
+   "ips": 1,
+   "requests": 1
+  },
+  "AE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FI": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TG": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PL": {
+   "ips": 2,
+   "requests": 2
+  },
+  "DZ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "GB": {
+   "ips": 5,
+   "requests": 5
+  },
+  "PT": {
+   "ips": 1,
+   "requests": 1
+  },
+  "SV": {
+   "ips": 1,
+   "requests": 1
+  },
+  "RS": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ES": {
+   "ips": 7,
+   "requests": 7
+  },
+  "MA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BO": {
+   "ips": 2,
+   "requests": 2
+  },
+  "VC": {
+   "ips": 1,
+   "requests": 1
+  },
+  "EG": {
+   "ips": 1,
+   "requests": 1
+  },
+  "MU": {
+   "ips": 1,
+   "requests": 1
+  },
+  "IE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "KE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "UA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PY": {
+   "ips": 2,
+   "requests": 2
+  },
+  "BD": {
+   "ips": 1,
+   "requests": 1
+  },
+  "NP": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ET": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "CH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PS": {
+   "ips": 1,
+   "requests": 1
+  },
+  "AT": {
+   "ips": 1,
+   "requests": 1
+  },
+  "SN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "IQ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "LY": {
+   "ips": 1,
+   "requests": 1
+  },
+  "AM": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TH": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/news/assets/js/ai-news-theme.js",
+   13
+  ],
+  [
+   "/news/glossary/glossary.js",
+   11
+  ],
+  [
+   "/news/2026-09-30",
+   11
+  ],
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   11
+  ],
+  [
+   "/news/glossary/glossary.css",
+   10
+  ],
+  [
+   "/news/assets/css/theme.css",
+   10
+  ],
+  [
+   "/favicon.ico",
+   9
+  ],
+  [
+   "/news/assets/fonts/jetbrains-mono-variable.woff2",
+   7
+  ],
+  [
+   "/timeline/story.html",
+   7
+  ],
+  [
+   "/news/",
+   7
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   7
+  ],
+  [
+   "/timeline/",
+   7
+  ],
+  [
+   "/timeline/story",
+   7
+  ],
+  [
+   "/news/assets/fonts/inter-variable.woff2",
+   7
+  ],
+  [
+   "/",
+   6
+  ],
+  [
+   "/news/en/2026-10-15",
+   5
+  ],
+  [
+   "/news/assets/css/main.css",
+   4
+  ],
+  [
+   "/assets/apod/apod-pool-09.webp",
+   3
+  ],
+  [
+   "/assets/apod/apod-pool-18.webp",
+   3
+  ],
+  [
+   "/assets/apod/apod-pool-29.webp",
+   3
+  ]
+ ]
+}

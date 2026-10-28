@@ -1,0 +1,189 @@
+{
+ "date": "2026-10-22",
+ "requests_total": 11947,
+ "by_type": {
+  "human": 2772,
+  "bot": 307,
+  "own": 8794,
+  "script": 0,
+  "other": 61,
+  "empty": 13
+ },
+ "unique_human_ips": 142,
+ "unique_bot_ips": 40,
+ "unique_own_ips": 2,
+ "unique_scanner_ips": 9,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 52,
+   "requests": 717
+  },
+  "CN": {
+   "ips": 19,
+   "requests": 158
+  },
+  "DE": {
+   "ips": 8,
+   "requests": 572
+  },
+  "TW": {
+   "ips": 2,
+   "requests": 64
+  },
+  "BE": {
+   "ips": 5,
+   "requests": 32
+  },
+  "SG": {
+   "ips": 13,
+   "requests": 57
+  },
+  "KR": {
+   "ips": 7,
+   "requests": 9
+  },
+  "JP": {
+   "ips": 5,
+   "requests": 6
+  },
+  "FR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VN": {
+   "ips": 3,
+   "requests": 3
+  },
+  "HK": {
+   "ips": 5,
+   "requests": 5
+  },
+  "IN": {
+   "ips": 2,
+   "requests": 3
+  },
+  "KZ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "GA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BD": {
+   "ips": 3,
+   "requests": 3
+  },
+  "BR": {
+   "ips": 6,
+   "requests": 7
+  },
+  "SE": {
+   "ips": 4,
+   "requests": 4
+  },
+  "GB": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PH": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   11
+  ],
+  [
+   "/news/",
+   6
+  ],
+  [
+   "/timeline/",
+   5
+  ],
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   4
+  ],
+  [
+   "/news/glossary/glossary.js",
+   4
+  ],
+  [
+   "/news/glossary/glossary.css",
+   4
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   4
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   4
+  ],
+  [
+   "/news/assets/css/main.css",
+   4
+  ],
+  [
+   "/news/assets/fonts/jetbrains-mono-variable.woff2",
+   4
+  ],
+  [
+   "/news/assets/css/theme.css",
+   4
+  ],
+  [
+   "/news/assets/fonts/inter-variable.woff2",
+   4
+  ],
+  [
+   "/timeline/story.html",
+   4
+  ],
+  [
+   "/news/latest.html",
+   3
+  ],
+  [
+   "/news/assets/curiosity/earth-00081.jpg",
+   3
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   3
+  ],
+  [
+   "/news/2026-10/2026-10-21.html",
+   3
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   3
+  ],
+  [
+   "/news/2026-10-21",
+   3
+  ],
+  [
+   "/news/2026-06-11",
+   3
+  ]
+ ]
+}

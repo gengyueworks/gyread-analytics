@@ -1,0 +1,217 @@
+{
+ "date": "2026-10-17",
+ "requests_total": 10373,
+ "by_type": {
+  "human": 9271,
+  "bot": 976,
+  "own": 12,
+  "script": 1,
+  "other": 68,
+  "empty": 45
+ },
+ "unique_human_ips": 270,
+ "unique_bot_ips": 52,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 15,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 106,
+   "requests": 6136
+  },
+  "PL": {
+   "ips": 3,
+   "requests": 2333
+  },
+  "SG": {
+   "ips": 59,
+   "requests": 99
+  },
+  "CN": {
+   "ips": 24,
+   "requests": 43
+  },
+  "FR": {
+   "ips": 3,
+   "requests": 24
+  },
+  "DE": {
+   "ips": 18,
+   "requests": 31
+  },
+  "KH": {
+   "ips": 1,
+   "requests": 4
+  },
+  "IN": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CA": {
+   "ips": 1,
+   "requests": 41
+  },
+  "HK": {
+   "ips": 11,
+   "requests": 16
+  },
+  "BE": {
+   "ips": 2,
+   "requests": 3
+  },
+  "KR": {
+   "ips": 6,
+   "requests": 9
+  },
+  "BR": {
+   "ips": 6,
+   "requests": 8
+  },
+  "JP": {
+   "ips": 5,
+   "requests": 8
+  },
+  "ID": {
+   "ips": 3,
+   "requests": 6
+  },
+  "SE": {
+   "ips": 5,
+   "requests": 5
+  },
+  "MY": {
+   "ips": 2,
+   "requests": 2
+  },
+  "GB": {
+   "ips": 1,
+   "requests": 1
+  },
+  "KZ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "UG": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ES": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VN": {
+   "ips": 2,
+   "requests": 2
+  },
+  "UA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "NL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TH": {
+   "ips": 2,
+   "requests": 2
+  },
+  "RU": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BD": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   15
+  ],
+  [
+   "/pricing",
+   10
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-27.display.webp",
+   9
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-29.preview.webp",
+   8
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   8
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   8
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-01.display.webp",
+   8
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   8
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   8
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   8
+  ],
+  [
+   "/assets/covers/cover-ncr-vault.webp",
+   8
+  ],
+  [
+   "/account",
+   8
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-02.display.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-18.preview.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.preview.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-29.display.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-13.display.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-09.display.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-17.display.webp",
+   7
+  ]
+ ]
+}

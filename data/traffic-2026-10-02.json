@@ -1,0 +1,201 @@
+{
+ "date": "2026-10-02",
+ "requests_total": 2544,
+ "by_type": {
+  "human": 1288,
+  "bot": 1058,
+  "own": 0,
+  "script": 0,
+  "other": 186,
+  "empty": 12
+ },
+ "unique_human_ips": 214,
+ "unique_bot_ips": 417,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 18,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "NL": {
+   "ips": 1,
+   "requests": 264
+  },
+  "SG": {
+   "ips": 24,
+   "requests": 186
+  },
+  "US": {
+   "ips": 51,
+   "requests": 233
+  },
+  "JP": {
+   "ips": 6,
+   "requests": 90
+  },
+  "BE": {
+   "ips": 3,
+   "requests": 10
+  },
+  "CH": {
+   "ips": 1,
+   "requests": 19
+  },
+  "PL": {
+   "ips": 1,
+   "requests": 31
+  },
+  "IN": {
+   "ips": 1,
+   "requests": 21
+  },
+  "DE": {
+   "ips": 10,
+   "requests": 12
+  },
+  "CN": {
+   "ips": 7,
+   "requests": 16
+  },
+  "RU": {
+   "ips": 1,
+   "requests": 4
+  },
+  "TW": {
+   "ips": 1,
+   "requests": 11
+  },
+  "CA": {
+   "ips": 1,
+   "requests": 9
+  },
+  "KR": {
+   "ips": 5,
+   "requests": 7
+  },
+  "TR": {
+   "ips": 2,
+   "requests": 3
+  },
+  "ES": {
+   "ips": 71,
+   "requests": 84
+  },
+  "SA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PT": {
+   "ips": 12,
+   "requests": 14
+  },
+  "HK": {
+   "ips": 4,
+   "requests": 5
+  },
+  "VN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BR": {
+   "ips": 4,
+   "requests": 4
+  },
+  "ID": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "RO": {
+   "ips": 2,
+   "requests": 2
+  },
+  "GB": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   21
+  ],
+  [
+   "/refund",
+   8
+  ],
+  [
+   "/terms",
+   8
+  ],
+  [
+   "/privacy",
+   8
+  ],
+  [
+   "/contact",
+   8
+  ],
+  [
+   "/ncr/",
+   5
+  ],
+  [
+   "/dict/",
+   5
+  ],
+  [
+   "/favicon.ico",
+   5
+  ],
+  [
+   "/luminous/",
+   5
+  ],
+  [
+   "/deep/cover/emergent-v12.webp",
+   5
+  ],
+  [
+   "/deep/cover/emergent-v06.webp",
+   5
+  ],
+  [
+   "/deep/cover/emergent-v11.webp",
+   5
+  ],
+  [
+   "/timeline/",
+   4
+  ],
+  [
+   "/assets/reals/badge-news.webp",
+   3
+  ],
+  [
+   "/assets/reals/badge-luminous.webp",
+   3
+  ],
+  [
+   "/account",
+   3
+  ],
+  [
+   "/pricing",
+   3
+  ],
+  [
+   "/news/",
+   3
+  ],
+  [
+   "/assets/reals/badge-timeline.webp",
+   3
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   2
+  ]
+ ]
+}

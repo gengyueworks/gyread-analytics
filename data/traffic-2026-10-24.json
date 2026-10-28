@@ -1,0 +1,189 @@
+{
+ "date": "2026-10-24",
+ "requests_total": 10487,
+ "by_type": {
+  "human": 3321,
+  "bot": 214,
+  "own": 6877,
+  "script": 0,
+  "other": 46,
+  "empty": 29
+ },
+ "unique_human_ips": 175,
+ "unique_bot_ips": 46,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 5,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 64,
+   "requests": 2947
+  },
+  "BE": {
+   "ips": 3,
+   "requests": 13
+  },
+  "CN": {
+   "ips": 20,
+   "requests": 97
+  },
+  "CA": {
+   "ips": 3,
+   "requests": 57
+  },
+  "FR": {
+   "ips": 3,
+   "requests": 23
+  },
+  "GB": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CO": {
+   "ips": 1,
+   "requests": 15
+  },
+  "SG": {
+   "ips": 14,
+   "requests": 26
+  },
+  "DE": {
+   "ips": 16,
+   "requests": 59
+  },
+  "JP": {
+   "ips": 7,
+   "requests": 13
+  },
+  "BR": {
+   "ips": 10,
+   "requests": 10
+  },
+  "HK": {
+   "ips": 9,
+   "requests": 11
+  },
+  "KR": {
+   "ips": 7,
+   "requests": 12
+  },
+  "ID": {
+   "ips": 4,
+   "requests": 8
+  },
+  "TH": {
+   "ips": 3,
+   "requests": 3
+  },
+  "RW": {
+   "ips": 1,
+   "requests": 1
+  },
+  "OM": {
+   "ips": 1,
+   "requests": 2
+  },
+  "RU": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VN": {
+   "ips": 3,
+   "requests": 3
+  },
+  "BD": {
+   "ips": 2,
+   "requests": 2
+  },
+  "SE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "NL": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   18
+  ],
+  [
+   "/timeline/",
+   9
+  ],
+  [
+   "/news/",
+   9
+  ],
+  [
+   "/pricing",
+   8
+  ],
+  [
+   "/account",
+   8
+  ],
+  [
+   "/contact",
+   5
+  ],
+  [
+   "/privacy",
+   5
+  ],
+  [
+   "/guide/pay",
+   5
+  ],
+  [
+   "/terms",
+   5
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   4
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   4
+  ],
+  [
+   "/refund",
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
+   3
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   3
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   3
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261020.display.webp",
+   3
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   3
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   3
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
+   3
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   3
+  ]
+ ]
+}

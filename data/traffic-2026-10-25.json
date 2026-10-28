@@ -1,0 +1,193 @@
+{
+ "date": "2026-10-25",
+ "requests_total": 10583,
+ "by_type": {
+  "human": 2321,
+  "bot": 357,
+  "own": 7814,
+  "script": 0,
+  "other": 75,
+  "empty": 16
+ },
+ "unique_human_ips": 149,
+ "unique_bot_ips": 34,
+ "unique_own_ips": 2,
+ "unique_scanner_ips": 11,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 61,
+   "requests": 1337
+  },
+  "SG": {
+   "ips": 8,
+   "requests": 110
+  },
+  "CN": {
+   "ips": 22,
+   "requests": 123
+  },
+  "CL": {
+   "ips": 1,
+   "requests": 549
+  },
+  "BE": {
+   "ips": 5,
+   "requests": 15
+  },
+  "CA": {
+   "ips": 2,
+   "requests": 47
+  },
+  "PL": {
+   "ips": 2,
+   "requests": 78
+  },
+  "EC": {
+   "ips": 1,
+   "requests": 13
+  },
+  "KR": {
+   "ips": 8,
+   "requests": 8
+  },
+  "ID": {
+   "ips": 2,
+   "requests": 2
+  },
+  "VN": {
+   "ips": 2,
+   "requests": 2
+  },
+  "GB": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BR": {
+   "ips": 3,
+   "requests": 3
+  },
+  "NL": {
+   "ips": 1,
+   "requests": 2
+  },
+  "DE": {
+   "ips": 9,
+   "requests": 11
+  },
+  "JP": {
+   "ips": 6,
+   "requests": 7
+  },
+  "MY": {
+   "ips": 1,
+   "requests": 1
+  },
+  "SE": {
+   "ips": 3,
+   "requests": 3
+  },
+  "HK": {
+   "ips": 2,
+   "requests": 2
+  },
+  "FR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "IN": {
+   "ips": 3,
+   "requests": 4
+  },
+  "TH": {
+   "ips": 4,
+   "requests": 5
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   13
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
+   8
+  ],
+  [
+   "/timeline/",
+   8
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   8
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   7
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   7
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   7
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   7
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-29.display.webp",
+   7
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   7
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   7
+  ],
+  [
+   "/assets/covers/cover-ncr-vault.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-27.display.webp",
+   7
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261020.display.webp",
+   6
+  ],
+  [
+   "/news/",
+   6
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   6
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
+   6
+  ]
+ ]
+}

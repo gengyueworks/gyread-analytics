@@ -1,0 +1,345 @@
+{
+ "date": "2026-10-11",
+ "requests_total": 12422,
+ "by_type": {
+  "human": 7357,
+  "bot": 3860,
+  "own": 1094,
+  "script": 0,
+  "other": 85,
+  "empty": 26
+ },
+ "unique_human_ips": 282,
+ "unique_bot_ips": 123,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 14,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 77,
+   "requests": 9600
+  },
+  "CN": {
+   "ips": 26,
+   "requests": 197
+  },
+  "IE": {
+   "ips": 1,
+   "requests": 8
+  },
+  "HK": {
+   "ips": 3,
+   "requests": 22
+  },
+  "FR": {
+   "ips": 7,
+   "requests": 29
+  },
+  "DE": {
+   "ips": 13,
+   "requests": 32
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 2
+  },
+  "IN": {
+   "ips": 1,
+   "requests": 2
+  },
+  "BE": {
+   "ips": 3,
+   "requests": 4
+  },
+  "KR": {
+   "ips": 2,
+   "requests": 3
+  },
+  "FI": {
+   "ips": 3,
+   "requests": 11
+  },
+  "TH": {
+   "ips": 1,
+   "requests": 2
+  },
+  "SG": {
+   "ips": 18,
+   "requests": 28
+  },
+  "BR": {
+   "ips": 32,
+   "requests": 52
+  },
+  "EC": {
+   "ips": 2,
+   "requests": 2
+  },
+  "EG": {
+   "ips": 1,
+   "requests": 2
+  },
+  "PL": {
+   "ips": 2,
+   "requests": 3
+  },
+  "JP": {
+   "ips": 4,
+   "requests": 4
+  },
+  "CO": {
+   "ips": 4,
+   "requests": 7
+  },
+  "BD": {
+   "ips": 3,
+   "requests": 6
+  },
+  "VN": {
+   "ips": 5,
+   "requests": 10
+  },
+  "KE": {
+   "ips": 2,
+   "requests": 4
+  },
+  "PK": {
+   "ips": 7,
+   "requests": 13
+  },
+  "ES": {
+   "ips": 3,
+   "requests": 5
+  },
+  "AZ": {
+   "ips": 2,
+   "requests": 3
+  },
+  "XK": {
+   "ips": 2,
+   "requests": 3
+  },
+  "AR": {
+   "ips": 3,
+   "requests": 6
+  },
+  "SE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "RU": {
+   "ips": 1,
+   "requests": 2
+  },
+  "AL": {
+   "ips": 1,
+   "requests": 2
+  },
+  "QA": {
+   "ips": 1,
+   "requests": 2
+  },
+  "VE": {
+   "ips": 4,
+   "requests": 7
+  },
+  "UZ": {
+   "ips": 1,
+   "requests": 2
+  },
+  "KW": {
+   "ips": 2,
+   "requests": 4
+  },
+  "PY": {
+   "ips": 2,
+   "requests": 4
+  },
+  "ZA": {
+   "ips": 2,
+   "requests": 3
+  },
+  "MX": {
+   "ips": 6,
+   "requests": 10
+  },
+  "KZ": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CG": {
+   "ips": 2,
+   "requests": 4
+  },
+  "AE": {
+   "ips": 2,
+   "requests": 4
+  },
+  "GB": {
+   "ips": 2,
+   "requests": 3
+  },
+  "ID": {
+   "ips": 2,
+   "requests": 2
+  },
+  "RS": {
+   "ips": 1,
+   "requests": 2
+  },
+  "TN": {
+   "ips": 3,
+   "requests": 5
+  },
+  "UA": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CL": {
+   "ips": 2,
+   "requests": 4
+  },
+  "CI": {
+   "ips": 2,
+   "requests": 3
+  },
+  "GT": {
+   "ips": 1,
+   "requests": 2
+  },
+  "DO": {
+   "ips": 1,
+   "requests": 2
+  },
+  "NL": {
+   "ips": 2,
+   "requests": 2
+  },
+  "JM": {
+   "ips": 1,
+   "requests": 2
+  },
+  "FJ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "HN": {
+   "ips": 1,
+   "requests": 2
+  },
+  "SA": {
+   "ips": 1,
+   "requests": 4
+  },
+  "BO": {
+   "ips": 1,
+   "requests": 2
+  },
+  "IL": {
+   "ips": 1,
+   "requests": 2
+  },
+  "GR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "AO": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CA": {
+   "ips": 1,
+   "requests": 2
+  },
+  "AT": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PH": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/timeline/",
+   18
+  ],
+  [
+   "/deep/envelope-emergent-klein.webp",
+   14
+  ],
+  [
+   "/assets/earth-horizon-panorama.webp",
+   14
+  ],
+  [
+   "/timeline/letters",
+   13
+  ],
+  [
+   "/pricing",
+   11
+  ],
+  [
+   "/guide/pay",
+   11
+  ],
+  [
+   "/",
+   10
+  ],
+  [
+   "/terms",
+   9
+  ],
+  [
+   "/account",
+   8
+  ],
+  [
+   "/timeline/standards",
+   8
+  ],
+  [
+   "/assets/apod/apod-pool-abell.webp",
+   8
+  ],
+  [
+   "/contact",
+   8
+  ],
+  [
+   "/privacy",
+   8
+  ],
+  [
+   "/assets/earth-chronicle-panorama.jpg",
+   7
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   7
+  ],
+  [
+   "/assets/apod/apod-pool-18.webp",
+   7
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   7
+  ],
+  [
+   "/assets/apod/apod-pool-14.webp",
+   7
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   7
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   7
+  ]
+ ]
+}

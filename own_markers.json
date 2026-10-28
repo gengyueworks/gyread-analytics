@@ -1,0 +1,28 @@
+{
+  "_说明": "自家监控与探测出口：UA 片段或 IP 前缀命中即不计入真人访客。可自行增删。",
+  "ua_tokens": ["gyread-monitor", "probe-drift", "watch-domain", "gyread-newsletter", "gyread-check"],
+  "ip_prefixes": ["222.209.110.", "222.209.109."],
+  "bot_ua_tokens": [
+    "dotbot", "ahrefsbot", "googlebot", "bingbot", "mj12bot", "twitterbot",
+    "applebot", "facebookexternalhit", "facebookbot", "semrush", "yandex",
+    "baiduspider", "gptbot", "claudebot", "claude-web", "petalbot",
+    "bytespider", "ccbot", "perplexity", "oai-searchbot", "chatgpt-user",
+    "amazonbot", "diffbot", "cohere", "omgilibot", "youbot", "timpibot",
+    "ai2bot", "sogou", "360spider", "linkdex", "spider", "crawler",
+    "headlesschrome", "phantomjs", "selenium", "puppeteer", "playwright",
+    "python-requests", "curl/", "wget", "go-http-client", "httpclient",
+    "libwww", "okhttp", "aria2", "node-fetch", "axios", "java/"
+  ],
+  "scan_paths": [
+    "/wp-", "/xmlrpc", "/wlwmanifest", ".php", "/.env", "/.git",
+    "/cms/", "/test/", "/wordpress/", "/sito/", "/web/", "/shop/",
+    "/2019/", "/2020/", "/2021/", "/old/", "/backup/", "/site/",
+    "/new/", "/demo/", "/temp/", "/blog/wp", "/home/", "/wp1/"
+  ],
+  "content_paths": [
+    "/news/2026", "/news/special/", "/timeline", "/letter", "/newsletter",
+    "/pricing", "/account", "/curiosity", "/machine-heart", "/dict",
+    "/blog", "/guide", "/ncr", "/terms", "/privacy", "/refund", "/contact"
+  ],
+  "suspicious_high_freq": 200
+}

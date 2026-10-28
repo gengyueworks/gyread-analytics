@@ -1,0 +1,309 @@
+{
+ "date": "2026-10-20",
+ "requests_total": 9533,
+ "by_type": {
+  "human": 3307,
+  "bot": 685,
+  "own": 5443,
+  "script": 0,
+  "other": 72,
+  "empty": 26
+ },
+ "unique_human_ips": 316,
+ "unique_bot_ips": 141,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 11,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 62,
+   "requests": 2157
+  },
+  "CN": {
+   "ips": 44,
+   "requests": 343
+  },
+  "NL": {
+   "ips": 3,
+   "requests": 96
+  },
+  "BE": {
+   "ips": 4,
+   "requests": 15
+  },
+  "FR": {
+   "ips": 9,
+   "requests": 33
+  },
+  "CA": {
+   "ips": 6,
+   "requests": 29
+  },
+  "DE": {
+   "ips": 9,
+   "requests": 12
+  },
+  "PL": {
+   "ips": 3,
+   "requests": 27
+  },
+  "SG": {
+   "ips": 48,
+   "requests": 135
+  },
+  "JP": {
+   "ips": 5,
+   "requests": 22
+  },
+  "VE": {
+   "ips": 2,
+   "requests": 9
+  },
+  "ID": {
+   "ips": 6,
+   "requests": 11
+  },
+  "BR": {
+   "ips": 16,
+   "requests": 26
+  },
+  "KR": {
+   "ips": 4,
+   "requests": 4
+  },
+  "VN": {
+   "ips": 9,
+   "requests": 15
+  },
+  "BF": {
+   "ips": 2,
+   "requests": 4
+  },
+  "PH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ZA": {
+   "ips": 4,
+   "requests": 8
+  },
+  "MX": {
+   "ips": 7,
+   "requests": 14
+  },
+  "IN": {
+   "ips": 10,
+   "requests": 16
+  },
+  "KE": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CL": {
+   "ips": 1,
+   "requests": 2
+  },
+  "ES": {
+   "ips": 6,
+   "requests": 12
+  },
+  "TW": {
+   "ips": 1,
+   "requests": 2
+  },
+  "IL": {
+   "ips": 1,
+   "requests": 2
+  },
+  "MK": {
+   "ips": 1,
+   "requests": 2
+  },
+  "PK": {
+   "ips": 4,
+   "requests": 8
+  },
+  "BD": {
+   "ips": 3,
+   "requests": 4
+  },
+  "TG": {
+   "ips": 1,
+   "requests": 1
+  },
+  "LY": {
+   "ips": 1,
+   "requests": 2
+  },
+  "SE": {
+   "ips": 2,
+   "requests": 2
+  },
+  "AR": {
+   "ips": 4,
+   "requests": 7
+  },
+  "SR": {
+   "ips": 1,
+   "requests": 2
+  },
+  "RU": {
+   "ips": 6,
+   "requests": 11
+  },
+  "NG": {
+   "ips": 1,
+   "requests": 2
+  },
+  "MY": {
+   "ips": 2,
+   "requests": 4
+  },
+  "TR": {
+   "ips": 2,
+   "requests": 3
+  },
+  "GB": {
+   "ips": 2,
+   "requests": 4
+  },
+  "IT": {
+   "ips": 4,
+   "requests": 8
+  },
+  "TN": {
+   "ips": 2,
+   "requests": 4
+  },
+  "PT": {
+   "ips": 1,
+   "requests": 2
+  },
+  "OM": {
+   "ips": 1,
+   "requests": 2
+  },
+  "HK": {
+   "ips": 4,
+   "requests": 4
+  },
+  "GH": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CD": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CO": {
+   "ips": 1,
+   "requests": 2
+  },
+  "DZ": {
+   "ips": 1,
+   "requests": 2
+  },
+  "PE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "UZ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "AE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "EC": {
+   "ips": 2,
+   "requests": 4
+  },
+  "TH": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/news/",
+   14
+  ],
+  [
+   "/",
+   11
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   11
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   11
+  ],
+  [
+   "/news/assets/css/theme.css",
+   11
+  ],
+  [
+   "/news/assets/css/main.css",
+   10
+  ],
+  [
+   "/news/assets/fonts/jetbrains-mono-variable.woff2",
+   10
+  ],
+  [
+   "/news/assets/fonts/inter-variable.woff2",
+   10
+  ],
+  [
+   "/favicon.ico",
+   9
+  ],
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   6
+  ],
+  [
+   "/news/glossary/glossary.js",
+   6
+  ],
+  [
+   "/news/glossary/glossary.css",
+   6
+  ],
+  [
+   "/news/special/model-evolution.html",
+   5
+  ],
+  [
+   "/timeline/",
+   5
+  ],
+  [
+   "/news/2026-10/2026-10-19.html",
+   5
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   5
+  ],
+  [
+   "/news/2026-10-19",
+   5
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   5
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   5
+  ],
+  [
+   "/news/latest.html",
+   4
+  ]
+ ]
+}

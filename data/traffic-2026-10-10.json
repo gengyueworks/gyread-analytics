@@ -1,0 +1,401 @@
+{
+ "date": "2026-10-10",
+ "requests_total": 5664,
+ "by_type": {
+  "human": 4054,
+  "bot": 1121,
+  "own": 337,
+  "script": 0,
+  "other": 113,
+  "empty": 39
+ },
+ "unique_human_ips": 519,
+ "unique_bot_ips": 211,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 17,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 87,
+   "requests": 2335
+  },
+  "VN": {
+   "ips": 21,
+   "requests": 50
+  },
+  "MX": {
+   "ips": 8,
+   "requests": 25
+  },
+  "BE": {
+   "ips": 3,
+   "requests": 11
+  },
+  "SG": {
+   "ips": 19,
+   "requests": 50
+  },
+  "FR": {
+   "ips": 10,
+   "requests": 24
+  },
+  "BR": {
+   "ips": 81,
+   "requests": 145
+  },
+  "HK": {
+   "ips": 9,
+   "requests": 32
+  },
+  "NL": {
+   "ips": 2,
+   "requests": 4
+  },
+  "PE": {
+   "ips": 5,
+   "requests": 9
+  },
+  "DZ": {
+   "ips": 4,
+   "requests": 8
+  },
+  "RU": {
+   "ips": 14,
+   "requests": 26
+  },
+  "PK": {
+   "ips": 14,
+   "requests": 27
+  },
+  "RO": {
+   "ips": 1,
+   "requests": 2
+  },
+  "AR": {
+   "ips": 20,
+   "requests": 38
+  },
+  "ES": {
+   "ips": 7,
+   "requests": 13
+  },
+  "PT": {
+   "ips": 2,
+   "requests": 4
+  },
+  "BD": {
+   "ips": 12,
+   "requests": 23
+  },
+  "AE": {
+   "ips": 8,
+   "requests": 15
+  },
+  "EC": {
+   "ips": 13,
+   "requests": 24
+  },
+  "DE": {
+   "ips": 13,
+   "requests": 26
+  },
+  "CO": {
+   "ips": 12,
+   "requests": 23
+  },
+  "VE": {
+   "ips": 12,
+   "requests": 23
+  },
+  "MD": {
+   "ips": 1,
+   "requests": 2
+  },
+  "GB": {
+   "ips": 9,
+   "requests": 21
+  },
+  "UA": {
+   "ips": 8,
+   "requests": 16
+  },
+  "AL": {
+   "ips": 1,
+   "requests": 2
+  },
+  "IN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "SE": {
+   "ips": 6,
+   "requests": 6
+  },
+  "JP": {
+   "ips": 3,
+   "requests": 3
+  },
+  "ZA": {
+   "ips": 10,
+   "requests": 19
+  },
+  "KR": {
+   "ips": 5,
+   "requests": 6
+  },
+  "QA": {
+   "ips": 1,
+   "requests": 2
+  },
+  "IE": {
+   "ips": 1,
+   "requests": 2
+  },
+  "KZ": {
+   "ips": 7,
+   "requests": 14
+  },
+  "CL": {
+   "ips": 7,
+   "requests": 14
+  },
+  "BO": {
+   "ips": 3,
+   "requests": 6
+  },
+  "TN": {
+   "ips": 5,
+   "requests": 10
+  },
+  "CN": {
+   "ips": 5,
+   "requests": 5
+  },
+  "CI": {
+   "ips": 3,
+   "requests": 6
+  },
+  "PA": {
+   "ips": 1,
+   "requests": 2
+  },
+  "UY": {
+   "ips": 1,
+   "requests": 2
+  },
+  "XK": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CR": {
+   "ips": 2,
+   "requests": 3
+  },
+  "DO": {
+   "ips": 1,
+   "requests": 2
+  },
+  "BA": {
+   "ips": 2,
+   "requests": 4
+  },
+  "PY": {
+   "ips": 3,
+   "requests": 5
+  },
+  "KE": {
+   "ips": 1,
+   "requests": 2
+  },
+  "IT": {
+   "ips": 3,
+   "requests": 6
+  },
+  "CA": {
+   "ips": 4,
+   "requests": 4
+  },
+  "LT": {
+   "ips": 1,
+   "requests": 2
+  },
+  "JO": {
+   "ips": 5,
+   "requests": 10
+  },
+  "TR": {
+   "ips": 4,
+   "requests": 6
+  },
+  "TG": {
+   "ips": 1,
+   "requests": 2
+  },
+  "MU": {
+   "ips": 1,
+   "requests": 2
+  },
+  "NP": {
+   "ips": 4,
+   "requests": 8
+  },
+  "MA": {
+   "ips": 3,
+   "requests": 6
+  },
+  "EG": {
+   "ips": 1,
+   "requests": 2
+  },
+  "PL": {
+   "ips": 4,
+   "requests": 4
+  },
+  "LB": {
+   "ips": 3,
+   "requests": 5
+  },
+  "AZ": {
+   "ips": 2,
+   "requests": 3
+  },
+  "CY": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CG": {
+   "ips": 1,
+   "requests": 2
+  },
+  "IL": {
+   "ips": 1,
+   "requests": 2
+  },
+  "ID": {
+   "ips": 1,
+   "requests": 1
+  },
+  "GE": {
+   "ips": 1,
+   "requests": 2
+  },
+  "OM": {
+   "ips": 1,
+   "requests": 2
+  },
+  "UZ": {
+   "ips": 4,
+   "requests": 8
+  },
+  "KW": {
+   "ips": 2,
+   "requests": 4
+  },
+  "KH": {
+   "ips": 1,
+   "requests": 2
+  },
+  "BY": {
+   "ips": 1,
+   "requests": 2
+  },
+  "JM": {
+   "ips": 1,
+   "requests": 2
+  },
+  "PH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "AU": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   15
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   13
+  ],
+  [
+   "/pricing",
+   13
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   12
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   11
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   11
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   11
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   10
+  ],
+  [
+   "/assets/apod/apod-pool-27.webp",
+   10
+  ],
+  [
+   "/assets/apod/apod-pool-29.webp",
+   10
+  ],
+  [
+   "/guide/pay",
+   10
+  ],
+  [
+   "/account",
+   10
+  ],
+  [
+   "/favicon.ico",
+   10
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   10
+  ],
+  [
+   "/assets/apod/apod-pool-31.webp",
+   9
+  ],
+  [
+   "/assets/apod/apod-pool-01.webp",
+   9
+  ],
+  [
+   "/assets/apod/apod-pool-24.webp",
+   9
+  ],
+  [
+   "/assets/apod/apod-pool-18.webp",
+   8
+  ],
+  [
+   "/timeline/",
+   8
+  ],
+  [
+   "/assets/apod/apod-pool-14.webp",
+   8
+  ]
+ ]
+}

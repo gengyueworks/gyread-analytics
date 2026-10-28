@@ -1,0 +1,325 @@
+{
+ "date": "2026-10-09",
+ "requests_total": 7655,
+ "by_type": {
+  "human": 2644,
+  "bot": 3788,
+  "own": 1063,
+  "script": 0,
+  "other": 133,
+  "empty": 27
+ },
+ "unique_human_ips": 314,
+ "unique_bot_ips": 223,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 14,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 87,
+   "requests": 4449
+  },
+  "CN": {
+   "ips": 14,
+   "requests": 243
+  },
+  "TW": {
+   "ips": 1,
+   "requests": 23
+  },
+  "DE": {
+   "ips": 11,
+   "requests": 25
+  },
+  "KR": {
+   "ips": 9,
+   "requests": 12
+  },
+  "CA": {
+   "ips": 2,
+   "requests": 356
+  },
+  "TR": {
+   "ips": 4,
+   "requests": 5
+  },
+  "RO": {
+   "ips": 1,
+   "requests": 19
+  },
+  "IT": {
+   "ips": 2,
+   "requests": 3
+  },
+  "SG": {
+   "ips": 18,
+   "requests": 28
+  },
+  "PK": {
+   "ips": 7,
+   "requests": 7
+  },
+  "VE": {
+   "ips": 6,
+   "requests": 6
+  },
+  "RU": {
+   "ips": 3,
+   "requests": 3
+  },
+  "PA": {
+   "ips": 2,
+   "requests": 2
+  },
+  "ID": {
+   "ips": 3,
+   "requests": 3
+  },
+  "BR": {
+   "ips": 37,
+   "requests": 40
+  },
+  "KZ": {
+   "ips": 3,
+   "requests": 3
+  },
+  "HK": {
+   "ips": 7,
+   "requests": 8
+  },
+  "AR": {
+   "ips": 8,
+   "requests": 8
+  },
+  "BH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "GA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ES": {
+   "ips": 6,
+   "requests": 6
+  },
+  "GB": {
+   "ips": 5,
+   "requests": 5
+  },
+  "JP": {
+   "ips": 6,
+   "requests": 7
+  },
+  "NL": {
+   "ips": 5,
+   "requests": 6
+  },
+  "BD": {
+   "ips": 5,
+   "requests": 5
+  },
+  "IQ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "JO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FR": {
+   "ips": 4,
+   "requests": 4
+  },
+  "CL": {
+   "ips": 2,
+   "requests": 2
+  },
+  "CR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "UA": {
+   "ips": 5,
+   "requests": 5
+  },
+  "IL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VN": {
+   "ips": 5,
+   "requests": 5
+  },
+  "SN": {
+   "ips": 2,
+   "requests": 2
+  },
+  "BE": {
+   "ips": 3,
+   "requests": 3
+  },
+  "EC": {
+   "ips": 2,
+   "requests": 2
+  },
+  "ZA": {
+   "ips": 2,
+   "requests": 2
+  },
+  "CO": {
+   "ips": 4,
+   "requests": 4
+  },
+  "DO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "AE": {
+   "ips": 5,
+   "requests": 5
+  },
+  "MA": {
+   "ips": 2,
+   "requests": 2
+  },
+  "NP": {
+   "ips": 2,
+   "requests": 2
+  },
+  "QA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BY": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PY": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PS": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CG": {
+   "ips": 1,
+   "requests": 1
+  },
+  "MX": {
+   "ips": 4,
+   "requests": 4
+  },
+  "SE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "KW": {
+   "ips": 1,
+   "requests": 1
+  },
+  "SL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "JM": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   19
+  ],
+  [
+   "/privacy",
+   17
+  ],
+  [
+   "/contact",
+   16
+  ],
+  [
+   "/refund",
+   15
+  ],
+  [
+   "/terms",
+   15
+  ],
+  [
+   "/pricing",
+   13
+  ],
+  [
+   "/guide/pay",
+   12
+  ],
+  [
+   "/news/",
+   11
+  ],
+  [
+   "/timeline/",
+   11
+  ],
+  [
+   "/account",
+   10
+  ],
+  [
+   "/favicon.ico",
+   7
+  ],
+  [
+   "/news/2026-10/2026-10-08.html",
+   7
+  ],
+  [
+   "/news/special/alphafold-breakup.html",
+   6
+  ],
+  [
+   "/news/2026-10/2026-10-09.html",
+   6
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   6
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   6
+  ],
+  [
+   "/assets/apod/apod-pool-27.webp",
+   6
+  ],
+  [
+   "/news/2026-10/2026-10-06.html",
+   6
+  ],
+  [
+   "/news/2026-10/2026-10-05.html",
+   6
+  ],
+  [
+   "/news/index.html",
+   6
+  ]
+ ]
+}

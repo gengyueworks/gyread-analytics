@@ -1,0 +1,1007 @@
+{
+ "generated_at": "2026-10-28 09:05:06",
+ "latest_date": "2026-10-28",
+ "latest_human_ips": 7,
+ "latest_scanner_ips": 0,
+ "latest_suspect_ips": 0,
+ "latest_countries": 6,
+ "new_countries": [
+  "ZA"
+ ],
+ "latest_by_type": {
+  "human": 200,
+  "bot": 4,
+  "own": 236,
+  "script": 0,
+  "other": 1,
+  "empty": 1
+ },
+ "prev_human_ips": 117,
+ "cc": {
+  "US": {
+   "ips": 1,
+   "requests": 181
+  },
+  "BE": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CO": {
+   "ips": 1,
+   "requests": 15
+  },
+  "CN": {
+   "ips": 2,
+   "requests": 2
+  },
+  "HK": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ZA": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "daily": [
+  {
+   "date": "2026-09-29",
+   "human_ips": 33,
+   "human_req": 1250,
+   "bot_ips": 36,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-09-30",
+   "human_ips": 42,
+   "human_req": 670,
+   "bot_ips": 142,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-01",
+   "human_ips": 196,
+   "human_req": 1267,
+   "bot_ips": 793,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-02",
+   "human_ips": 214,
+   "human_req": 1031,
+   "bot_ips": 417,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-03",
+   "human_ips": 141,
+   "human_req": 786,
+   "bot_ips": 188,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-04",
+   "human_ips": 127,
+   "human_req": 3066,
+   "bot_ips": 330,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-05",
+   "human_ips": 163,
+   "human_req": 1943,
+   "bot_ips": 341,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-06",
+   "human_ips": 185,
+   "human_req": 10788,
+   "bot_ips": 92,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-07",
+   "human_ips": 259,
+   "human_req": 7570,
+   "bot_ips": 289,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-08",
+   "human_ips": 306,
+   "human_req": 3774,
+   "bot_ips": 241,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-09",
+   "human_ips": 314,
+   "human_req": 5334,
+   "bot_ips": 223,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-10",
+   "human_ips": 519,
+   "human_req": 3186,
+   "bot_ips": 211,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-11",
+   "human_ips": 282,
+   "human_req": 10154,
+   "bot_ips": 123,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-12",
+   "human_ips": 143,
+   "human_req": 391,
+   "bot_ips": 124,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-13",
+   "human_ips": 196,
+   "human_req": 2478,
+   "bot_ips": 88,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-14",
+   "human_ips": 850,
+   "human_req": 2161,
+   "bot_ips": 113,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-15",
+   "human_ips": 788,
+   "human_req": 6932,
+   "bot_ips": 68,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-16",
+   "human_ips": 244,
+   "human_req": 4941,
+   "bot_ips": 80,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-17",
+   "human_ips": 270,
+   "human_req": 8785,
+   "bot_ips": 52,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-18",
+   "human_ips": 219,
+   "human_req": 11619,
+   "bot_ips": 98,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-19",
+   "human_ips": 204,
+   "human_req": 5179,
+   "bot_ips": 84,
+   "own_ips": 0
+  },
+  {
+   "date": "2026-10-20",
+   "human_ips": 316,
+   "human_req": 3085,
+   "bot_ips": 141,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-21",
+   "human_ips": 186,
+   "human_req": 3845,
+   "bot_ips": 46,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-22",
+   "human_ips": 142,
+   "human_req": 1648,
+   "bot_ips": 40,
+   "own_ips": 2
+  },
+  {
+   "date": "2026-10-23",
+   "human_ips": 133,
+   "human_req": 3117,
+   "bot_ips": 45,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-24",
+   "human_ips": 175,
+   "human_req": 3307,
+   "bot_ips": 46,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-25",
+   "human_ips": 149,
+   "human_req": 2325,
+   "bot_ips": 34,
+   "own_ips": 2
+  },
+  {
+   "date": "2026-10-26",
+   "human_ips": 115,
+   "human_req": 1613,
+   "bot_ips": 116,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-27",
+   "human_ips": 117,
+   "human_req": 1661,
+   "bot_ips": 128,
+   "own_ips": 1
+  },
+  {
+   "date": "2026-10-28",
+   "human_ips": 7,
+   "human_req": 202,
+   "bot_ips": 2,
+   "own_ips": 1
+  }
+ ],
+ "top_pages": [
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   2
+  ],
+  [
+   "/news/glossary/glossary.css",
+   2
+  ],
+  [
+   "/news/assets/css/subscribe-email-hint.css",
+   2
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   2
+  ],
+  [
+   "/news/assets/css/theme.css",
+   2
+  ],
+  [
+   "/news/assets/css/newsletter-subscribe.css",
+   2
+  ],
+  [
+   "/news/assets/js/newsletter-subscribe.js",
+   2
+  ],
+  [
+   "/news/assets/js/subscribe-btn-repoint.js",
+   2
+  ],
+  [
+   "/news/glossary/glossary.js",
+   2
+  ],
+  [
+   "/news/assets/css/newsletter-sub-issue-cta.css",
+   2
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   1
+  ],
+  [
+   "/news/latest.html",
+   1
+  ],
+  [
+   "/news/2026-10-27",
+   1
+  ],
+  [
+   "/news/en/latest.html",
+   1
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   1
+  ],
+  [
+   "/news/",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
+   1
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
+   1
+  ]
+ ],
+ "total_days": 30,
+ "total_page_tot": [
+  [
+   "/",
+   350
+  ],
+  [
+   "/timeline/",
+   202
+  ],
+  [
+   "/news/",
+   125
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   115
+  ],
+  [
+   "/pricing",
+   105
+  ],
+  [
+   "/favicon.ico",
+   102
+  ],
+  [
+   "/contact",
+   93
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   86
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   83
+  ],
+  [
+   "/guide/pay",
+   83
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   75
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   74
+  ],
+  [
+   "/news/assets/css/theme.css",
+   71
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   69
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   68
+  ],
+  [
+   "/account",
+   67
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   65
+  ],
+  [
+   "/privacy",
+   63
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   63
+  ],
+  [
+   "/terms",
+   60
+  ],
+  [
+   "/news/assets/css/main.css",
+   58
+  ],
+  [
+   "/refund",
+   56
+  ],
+  [
+   "/news/assets/fonts/jetbrains-mono-variable.woff2",
+   56
+  ],
+  [
+   "/news/assets/fonts/inter-variable.woff2",
+   56
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   49
+  ],
+  [
+   "/news/glossary/glossary.js",
+   45
+  ],
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   43
+  ],
+  [
+   "/assets/covers/cover-ncr-vault.webp",
+   41
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   40
+  ],
+  [
+   "/deep/envelope-emergent-klein.webp",
+   37
+  ]
+ ],
+ "total_cc_req": [
+  [
+   "US",
+   87399
+  ],
+  [
+   "CN",
+   7950
+  ],
+  [
+   "SG",
+   4064
+  ],
+  [
+   "PL",
+   3537
+  ],
+  [
+   "DE",
+   1761
+  ],
+  [
+   "CA",
+   1498
+  ],
+  [
+   "JP",
+   912
+  ],
+  [
+   "IN",
+   718
+  ],
+  [
+   "HK",
+   579
+  ],
+  [
+   "CL",
+   577
+  ],
+  [
+   "BR",
+   558
+  ],
+  [
+   "NL",
+   550
+  ],
+  [
+   "FR",
+   390
+  ],
+  [
+   "BE",
+   314
+  ],
+  [
+   "QA",
+   286
+  ],
+  [
+   "GB",
+   257
+  ],
+  [
+   "TW",
+   250
+  ],
+  [
+   "IL",
+   238
+  ],
+  [
+   "ES",
+   236
+  ],
+  [
+   "KR",
+   208
+  ],
+  [
+   "RO",
+   172
+  ],
+  [
+   "VN",
+   123
+  ],
+  [
+   "CO",
+   97
+  ],
+  [
+   "AR",
+   97
+  ],
+  [
+   "SE",
+   84
+  ],
+  [
+   "ID",
+   80
+  ],
+  [
+   "BD",
+   69
+  ],
+  [
+   "RU",
+   67
+  ],
+  [
+   "PT",
+   66
+  ],
+  [
+   "MX",
+   65
+  ],
+  [
+   "PK",
+   63
+  ],
+  [
+   "EC",
+   61
+  ],
+  [
+   "ZA",
+   58
+  ],
+  [
+   "TR",
+   54
+  ],
+  [
+   "VE",
+   54
+  ],
+  [
+   "TH",
+   53
+  ],
+  [
+   "AE",
+   38
+  ],
+  [
+   "UA",
+   30
+  ],
+  [
+   "KZ",
+   26
+  ],
+  [
+   "PE",
+   26
+  ],
+  [
+   "IT",
+   26
+  ],
+  [
+   "FI",
+   23
+  ],
+  [
+   "CH",
+   21
+  ],
+  [
+   "TN",
+   21
+  ],
+  [
+   "BO",
+   14
+  ],
+  [
+   "UZ",
+   14
+  ],
+  [
+   "PY",
+   14
+  ],
+  [
+   "IE",
+   14
+  ],
+  [
+   "JO",
+   13
+  ],
+  [
+   "SA",
+   12
+  ],
+  [
+   "DZ",
+   12
+  ],
+  [
+   "KE",
+   11
+  ],
+  [
+   "NP",
+   11
+  ],
+  [
+   "CI",
+   10
+  ],
+  [
+   "AZ",
+   10
+  ],
+  [
+   "CR",
+   9
+  ],
+  [
+   "MA",
+   9
+  ],
+  [
+   "KW",
+   9
+  ],
+  [
+   "PH",
+   9
+  ],
+  [
+   "MY",
+   9
+  ]
+ ],
+ "total_human_req": 114108,
+ "total_bot_req": 88027,
+ "total_own_req": 71568,
+ "total_cc_count": 60,
+ "d7_days": 7,
+ "d7_page_tot": [
+  [
+   "/",
+   69
+  ],
+  [
+   "/news/",
+   41
+  ],
+  [
+   "/timeline/",
+   40
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   27
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   21
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   21
+  ],
+  [
+   "/contact",
+   19
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
+   18
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   17
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   16
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   15
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   15
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   14
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   14
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   14
+  ],
+  [
+   "/news/assets/css/theme.css",
+   13
+  ],
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   12
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-29.display.webp",
+   12
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261020.display.webp",
+   12
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
+   12
+  ],
+  [
+   "/news/assets/css/main.css",
+   11
+  ],
+  [
+   "/terms",
+   11
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
+   11
+  ],
+  [
+   "/news/glossary/glossary.js",
+   10
+  ],
+  [
+   "/refund",
+   10
+  ],
+  [
+   "/privacy",
+   10
+  ],
+  [
+   "/guide/pay",
+   9
+  ],
+  [
+   "/news/assets/fonts/jetbrains-mono-variable.woff2",
+   8
+  ],
+  [
+   "/news/assets/fonts/inter-variable.woff2",
+   8
+  ],
+  [
+   "/pricing",
+   8
+  ]
+ ],
+ "d7_cc_req": [
+  [
+   "US",
+   9401
+  ],
+  [
+   "CN",
+   956
+  ],
+  [
+   "DE",
+   707
+  ],
+  [
+   "IN",
+   555
+  ],
+  [
+   "CL",
+   549
+  ],
+  [
+   "PL",
+   512
+  ],
+  [
+   "SG",
+   342
+  ],
+  [
+   "CA",
+   146
+  ],
+  [
+   "FR",
+   133
+  ],
+  [
+   "TW",
+   109
+  ],
+  [
+   "BE",
+   103
+  ],
+  [
+   "JP",
+   42
+  ],
+  [
+   "BR",
+   41
+  ],
+  [
+   "CO",
+   38
+  ],
+  [
+   "KR",
+   37
+  ],
+  [
+   "HK",
+   35
+  ],
+  [
+   "GB",
+   30
+  ],
+  [
+   "BD",
+   21
+  ],
+  [
+   "SE",
+   16
+  ],
+  [
+   "ID",
+   16
+  ],
+  [
+   "NL",
+   15
+  ],
+  [
+   "VN",
+   13
+  ],
+  [
+   "EC",
+   13
+  ],
+  [
+   "TH",
+   10
+  ],
+  [
+   "AR",
+   6
+  ],
+  [
+   "TR",
+   3
+  ],
+  [
+   "FI",
+   3
+  ],
+  [
+   "KZ",
+   2
+  ],
+  [
+   "PH",
+   2
+  ],
+  [
+   "OM",
+   2
+  ],
+  [
+   "IT",
+   2
+  ],
+  [
+   "PA",
+   2
+  ],
+  [
+   "GA",
+   1
+  ],
+  [
+   "PE",
+   1
+  ],
+  [
+   "BO",
+   1
+  ],
+  [
+   "PY",
+   1
+  ],
+  [
+   "CD",
+   1
+  ],
+  [
+   "RW",
+   1
+  ],
+  [
+   "RU",
+   1
+  ],
+  [
+   "MY",
+   1
+  ],
+  [
+   "LB",
+   1
+  ],
+  [
+   "AE",
+   1
+  ],
+  [
+   "ZA",
+   1
+  ]
+ ],
+ "d7_human_req": 13873
+}

@@ -1,0 +1,225 @@
+{
+ "date": "2026-10-12",
+ "requests_total": 48451,
+ "by_type": {
+  "human": 1209,
+  "bot": 46911,
+  "own": 261,
+  "script": 0,
+  "other": 49,
+  "empty": 21
+ },
+ "unique_human_ips": 143,
+ "unique_bot_ips": 124,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 9,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "CN": {
+   "ips": 14,
+   "requests": 73
+  },
+  "US": {
+   "ips": 52,
+   "requests": 118
+  },
+  "NL": {
+   "ips": 4,
+   "requests": 31
+  },
+  "JP": {
+   "ips": 5,
+   "requests": 46
+  },
+  "BE": {
+   "ips": 5,
+   "requests": 10
+  },
+  "GB": {
+   "ips": 3,
+   "requests": 39
+  },
+  "SG": {
+   "ips": 8,
+   "requests": 16
+  },
+  "DE": {
+   "ips": 8,
+   "requests": 9
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 2
+  },
+  "IE": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ID": {
+   "ips": 3,
+   "requests": 3
+  },
+  "CR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "KR": {
+   "ips": 7,
+   "requests": 7
+  },
+  "AR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "CA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "HK": {
+   "ips": 6,
+   "requests": 9
+  },
+  "IQ": {
+   "ips": 2,
+   "requests": 2
+  },
+  "BR": {
+   "ips": 5,
+   "requests": 5
+  },
+  "FR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "SE": {
+   "ips": 3,
+   "requests": 3
+  },
+  "MW": {
+   "ips": 1,
+   "requests": 1
+  },
+  "AE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "KZ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "SA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ZA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BF": {
+   "ips": 1,
+   "requests": 1
+  },
+  "IN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FI": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/timeline/",
+   8
+  ],
+  [
+   "/guide/pay",
+   6
+  ],
+  [
+   "/deep/envelope-emergent-klein.webp",
+   5
+  ],
+  [
+   "/assets/earth-horizon-panorama.webp",
+   5
+  ],
+  [
+   "/",
+   4
+  ],
+  [
+   "/timeline",
+   3
+  ],
+  [
+   "/assets/apod/apod-pool-abell.webp",
+   2
+  ],
+  [
+   "/timeline/letters",
+   2
+  ],
+  [
+   "/timeline/let",
+   2
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   2
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   2
+  ],
+  [
+   "/refund",
+   2
+  ],
+  [
+   "/account",
+   2
+  ],
+  [
+   "/privacy",
+   2
+  ],
+  [
+   "/pricing",
+   2
+  ],
+  [
+   "/terms",
+   2
+  ],
+  [
+   "/assets/covers/cover-ncr-vault.webp",
+   2
+  ],
+  [
+   "/contact",
+   2
+  ],
+  [
+   "/favicon.ico",
+   2
+  ],
+  [
+   "/public/vendor/laravel-filemanager/js/script.js",
+   1
+  ]
+ ]
+}

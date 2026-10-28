@@ -1,0 +1,125 @@
+{
+ "date": "2026-10-28",
+ "requests_total": 442,
+ "by_type": {
+  "human": 200,
+  "bot": 4,
+  "own": 236,
+  "script": 0,
+  "other": 1,
+  "empty": 1
+ },
+ "unique_human_ips": 7,
+ "unique_bot_ips": 2,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 0,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 1,
+   "requests": 181
+  },
+  "BE": {
+   "ips": 1,
+   "requests": 2
+  },
+  "CO": {
+   "ips": 1,
+   "requests": 15
+  },
+  "CN": {
+   "ips": 2,
+   "requests": 2
+  },
+  "HK": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ZA": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   2
+  ],
+  [
+   "/news/glossary/glossary.css",
+   2
+  ],
+  [
+   "/news/assets/css/subscribe-email-hint.css",
+   2
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   2
+  ],
+  [
+   "/news/assets/css/theme.css",
+   2
+  ],
+  [
+   "/news/assets/css/newsletter-subscribe.css",
+   2
+  ],
+  [
+   "/news/assets/js/newsletter-subscribe.js",
+   2
+  ],
+  [
+   "/news/assets/js/subscribe-btn-repoint.js",
+   2
+  ],
+  [
+   "/news/glossary/glossary.js",
+   2
+  ],
+  [
+   "/news/assets/css/newsletter-sub-issue-cta.css",
+   2
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   1
+  ],
+  [
+   "/news/latest.html",
+   1
+  ],
+  [
+   "/news/2026-10-27",
+   1
+  ],
+  [
+   "/news/en/latest.html",
+   1
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   1
+  ],
+  [
+   "/news/",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
+   1
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
+   1
+  ]
+ ]
+}

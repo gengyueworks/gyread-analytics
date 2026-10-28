@@ -1,0 +1,193 @@
+{
+ "date": "2026-10-01",
+ "requests_total": 4814,
+ "by_type": {
+  "human": 2326,
+  "bot": 2315,
+  "own": 0,
+  "script": 0,
+  "other": 169,
+  "empty": 4
+ },
+ "unique_human_ips": 196,
+ "unique_bot_ips": 793,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 16,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 87,
+   "requests": 572
+  },
+  "JP": {
+   "ips": 10,
+   "requests": 137
+  },
+  "SG": {
+   "ips": 9,
+   "requests": 53
+  },
+  "CA": {
+   "ips": 4,
+   "requests": 369
+  },
+  "CN": {
+   "ips": 7,
+   "requests": 25
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 2
+  },
+  "FR": {
+   "ips": 11,
+   "requests": 16
+  },
+  "DE": {
+   "ips": 17,
+   "requests": 25
+  },
+  "KR": {
+   "ips": 5,
+   "requests": 8
+  },
+  "ES": {
+   "ips": 4,
+   "requests": 6
+  },
+  "HK": {
+   "ips": 6,
+   "requests": 11
+  },
+  "BR": {
+   "ips": 7,
+   "requests": 12
+  },
+  "ID": {
+   "ips": 3,
+   "requests": 4
+  },
+  "NL": {
+   "ips": 5,
+   "requests": 5
+  },
+  "TH": {
+   "ips": 3,
+   "requests": 5
+  },
+  "GB": {
+   "ips": 4,
+   "requests": 4
+  },
+  "BE": {
+   "ips": 4,
+   "requests": 4
+  },
+  "PT": {
+   "ips": 1,
+   "requests": 1
+  },
+  "SE": {
+   "ips": 2,
+   "requests": 2
+  },
+  "AE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "RO": {
+   "ips": 3,
+   "requests": 3
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   23
+  ],
+  [
+   "/assets/reals/badge-timeline.webp",
+   15
+  ],
+  [
+   "/assets/reals/badge-news.webp",
+   14
+  ],
+  [
+   "/assets/reals/badge-luminous.webp",
+   12
+  ],
+  [
+   "/deep/cover/emergent-v12.webp",
+   10
+  ],
+  [
+   "/deep/cover/emergent-v06.webp",
+   9
+  ],
+  [
+   "/deep/cover/emergent-v11.webp",
+   9
+  ],
+  [
+   "/timeline/",
+   8
+  ],
+  [
+   "/ncr/",
+   6
+  ],
+  [
+   "/contact",
+   6
+  ],
+  [
+   "/deep/",
+   6
+  ],
+  [
+   "/refund",
+   5
+  ],
+  [
+   "/terms",
+   5
+  ],
+  [
+   "/account",
+   4
+  ],
+  [
+   "/privacy",
+   4
+  ],
+  [
+   "/pricing",
+   4
+  ],
+  [
+   "/checkout/panda",
+   4
+  ],
+  [
+   "/news/",
+   4
+  ],
+  [
+   "/news/2026-09/2026-09-08.html",
+   4
+  ],
+  [
+   "/news/special/ai-workplace.html",
+   4
+  ]
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "date": "2026-10-23",
+ "requests_total": 10878,
+ "by_type": {
+  "human": 3307,
+  "bot": 406,
+  "own": 7070,
+  "script": 0,
+  "other": 53,
+  "empty": 42
+ },
+ "unique_human_ips": 133,
+ "unique_bot_ips": 45,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 11,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 59,
+   "requests": 2653
+  },
+  "SG": {
+   "ips": 7,
+   "requests": 67
+  },
+  "CN": {
+   "ips": 16,
+   "requests": 168
+  },
+  "BE": {
+   "ips": 3,
+   "requests": 12
+  },
+  "FR": {
+   "ips": 2,
+   "requests": 40
+  },
+  "DE": {
+   "ips": 11,
+   "requests": 39
+  },
+  "BR": {
+   "ips": 8,
+   "requests": 10
+  },
+  "HK": {
+   "ips": 5,
+   "requests": 7
+  },
+  "PL": {
+   "ips": 1,
+   "requests": 79
+  },
+  "GB": {
+   "ips": 1,
+   "requests": 21
+  },
+  "NL": {
+   "ips": 1,
+   "requests": 2
+  },
+  "ID": {
+   "ips": 2,
+   "requests": 2
+  },
+  "KR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "JP": {
+   "ips": 6,
+   "requests": 6
+  },
+  "BO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "KZ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PY": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BD": {
+   "ips": 2,
+   "requests": 2
+  },
+  "VN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CD": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FI": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   9
+  ],
+  [
+   "/news/",
+   8
+  ],
+  [
+   "/timeline/",
+   7
+  ],
+  [
+   "/contact",
+   6
+  ],
+  [
+   "/terms",
+   6
+  ],
+  [
+   "/favicon.ico",
+   6
+  ],
+  [
+   "/refund",
+   6
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   5
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-29.display.webp",
+   5
+  ],
+  [
+   "/privacy",
+   5
+  ],
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   4
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   4
+  ],
+  [
+   "/news/glossary/glossary.js",
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   4
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   4
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   4
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   4
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   4
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   4
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   4
+  ]
+ ]
+}

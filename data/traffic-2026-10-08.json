@@ -1,0 +1,249 @@
+{
+ "date": "2026-10-08",
+ "requests_total": 8351,
+ "by_type": {
+  "human": 3553,
+  "bot": 1759,
+  "own": 330,
+  "script": 1,
+  "other": 535,
+  "empty": 2173
+ },
+ "unique_human_ips": 306,
+ "unique_bot_ips": 241,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 11,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 74,
+   "requests": 2565
+  },
+  "CN": {
+   "ips": 8,
+   "requests": 730
+  },
+  "SG": {
+   "ips": 118,
+   "requests": 296
+  },
+  "JP": {
+   "ips": 11,
+   "requests": 40
+  },
+  "BE": {
+   "ips": 3,
+   "requests": 8
+  },
+  "DE": {
+   "ips": 14,
+   "requests": 36
+  },
+  "TR": {
+   "ips": 2,
+   "requests": 3
+  },
+  "ID": {
+   "ips": 3,
+   "requests": 5
+  },
+  "BR": {
+   "ips": 17,
+   "requests": 20
+  },
+  "KR": {
+   "ips": 11,
+   "requests": 15
+  },
+  "SE": {
+   "ips": 3,
+   "requests": 3
+  },
+  "CA": {
+   "ips": 1,
+   "requests": 5
+  },
+  "CR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CI": {
+   "ips": 1,
+   "requests": 1
+  },
+  "UY": {
+   "ips": 1,
+   "requests": 1
+  },
+  "HK": {
+   "ips": 8,
+   "requests": 13
+  },
+  "TH": {
+   "ips": 2,
+   "requests": 4
+  },
+  "PK": {
+   "ips": 2,
+   "requests": 2
+  },
+  "KZ": {
+   "ips": 3,
+   "requests": 3
+  },
+  "AR": {
+   "ips": 4,
+   "requests": 4
+  },
+  "NL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ZA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "RU": {
+   "ips": 1,
+   "requests": 1
+  },
+  "PE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "UZ": {
+   "ips": 1,
+   "requests": 1
+  },
+  "XK": {
+   "ips": 1,
+   "requests": 1
+  },
+  "MX": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ES": {
+   "ips": 2,
+   "requests": 2
+  },
+  "AL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "EG": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "NI": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "NG": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CO": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   16
+  ],
+  [
+   "/timeline/",
+   11
+  ],
+  [
+   "/pricing",
+   5
+  ],
+  [
+   "/news/2026-08/2026-08-18",
+   4
+  ],
+  [
+   "/news/2026-09/2026-09-25.html",
+   4
+  ],
+  [
+   "/news/2026-06/ai-weekly-2026-06-01-to-06-07",
+   4
+  ],
+  [
+   "/news/special/ai-workplace",
+   4
+  ],
+  [
+   "/news/2026-08/2026-08-18.html",
+   4
+  ],
+  [
+   "/news/2026-10/2026-10-05",
+   4
+  ],
+  [
+   "/news/special/anthropic-rise",
+   4
+  ],
+  [
+   "/news/2026-10/2026-10-05.html",
+   4
+  ],
+  [
+   "/news/2026-07/2026-07-03",
+   4
+  ],
+  [
+   "/news/2026-07/2026-07-28",
+   4
+  ],
+  [
+   "/news/2026-06/2026-06-11",
+   4
+  ],
+  [
+   "/privacy",
+   4
+  ],
+  [
+   "/contact",
+   4
+  ],
+  [
+   "/news/2026-10/2026-10-07.html",
+   3
+  ],
+  [
+   "/news/2026-10/2026-10-08.html",
+   3
+  ],
+  [
+   "/news/2026-10/2026-10-06.html",
+   3
+  ],
+  [
+   "/news/2026-07/2026-07-08.html",
+   3
+  ]
+ ]
+}

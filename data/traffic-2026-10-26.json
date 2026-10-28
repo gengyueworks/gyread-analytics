@@ -1,0 +1,181 @@
+{
+ "date": "2026-10-26",
+ "requests_total": 9355,
+ "by_type": {
+  "human": 1631,
+  "bot": 633,
+  "own": 7028,
+  "script": 0,
+  "other": 50,
+  "empty": 13
+ },
+ "unique_human_ips": 115,
+ "unique_bot_ips": 116,
+ "unique_own_ips": 1,
+ "unique_scanner_ips": 4,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "CN": {
+   "ips": 17,
+   "requests": 363
+  },
+  "US": {
+   "ips": 44,
+   "requests": 769
+  },
+  "BD": {
+   "ips": 3,
+   "requests": 12
+  },
+  "BE": {
+   "ips": 4,
+   "requests": 15
+  },
+  "SG": {
+   "ips": 7,
+   "requests": 36
+  },
+  "PL": {
+   "ips": 3,
+   "requests": 354
+  },
+  "DE": {
+   "ips": 8,
+   "requests": 14
+  },
+  "IT": {
+   "ips": 1,
+   "requests": 2
+  },
+  "JP": {
+   "ips": 5,
+   "requests": 7
+  },
+  "HK": {
+   "ips": 4,
+   "requests": 5
+  },
+  "FR": {
+   "ips": 1,
+   "requests": 15
+  },
+  "PA": {
+   "ips": 1,
+   "requests": 2
+  },
+  "SE": {
+   "ips": 4,
+   "requests": 4
+  },
+  "GB": {
+   "ips": 1,
+   "requests": 2
+  },
+  "BR": {
+   "ips": 5,
+   "requests": 5
+  },
+  "NL": {
+   "ips": 1,
+   "requests": 2
+  },
+  "VN": {
+   "ips": 2,
+   "requests": 2
+  },
+  "KR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "FI": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   8
+  ],
+  [
+   "/news/",
+   7
+  ],
+  [
+   "/timeline/",
+   6
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   4
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   4
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
+   4
+  ],
+  [
+   "/news/assets/css/main.css",
+   4
+  ],
+  [
+   "/news/assets/fonts/jetbrains-mono-variable.woff2",
+   4
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   4
+  ],
+  [
+   "/news/letter.html",
+   4
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   4
+  ],
+  [
+   "/news/assets/css/theme.css",
+   4
+  ],
+  [
+   "/news/assets/fonts/inter-variable.woff2",
+   4
+  ],
+  [
+   "/contact",
+   4
+  ],
+  [
+   "/guide/pay",
+   4
+  ],
+  [
+   "/news/latest.html",
+   3
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
+   3
+  ],
+  [
+   "/news/2026-10-25",
+   3
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261020.display.webp",
+   3
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
+   3
+  ]
+ ]
+}

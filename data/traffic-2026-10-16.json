@@ -1,0 +1,201 @@
+{
+ "date": "2026-10-16",
+ "requests_total": 6368,
+ "by_type": {
+  "human": 4349,
+  "bot": 1780,
+  "own": 2,
+  "script": 5,
+  "other": 180,
+  "empty": 52
+ },
+ "unique_human_ips": 244,
+ "unique_bot_ips": 80,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 18,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 94,
+   "requests": 4369
+  },
+  "SG": {
+   "ips": 64,
+   "requests": 211
+  },
+  "FR": {
+   "ips": 5,
+   "requests": 65
+  },
+  "BE": {
+   "ips": 2,
+   "requests": 10
+  },
+  "RO": {
+   "ips": 1,
+   "requests": 105
+  },
+  "CN": {
+   "ips": 17,
+   "requests": 33
+  },
+  "FI": {
+   "ips": 1,
+   "requests": 3
+  },
+  "SE": {
+   "ips": 5,
+   "requests": 6
+  },
+  "HK": {
+   "ips": 8,
+   "requests": 9
+  },
+  "DE": {
+   "ips": 12,
+   "requests": 24
+  },
+  "KR": {
+   "ips": 7,
+   "requests": 10
+  },
+  "CA": {
+   "ips": 2,
+   "requests": 66
+  },
+  "VN": {
+   "ips": 3,
+   "requests": 3
+  },
+  "CO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "JP": {
+   "ips": 6,
+   "requests": 8
+  },
+  "UA": {
+   "ips": 2,
+   "requests": 4
+  },
+  "TR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "GB": {
+   "ips": 2,
+   "requests": 2
+  },
+  "BR": {
+   "ips": 3,
+   "requests": 3
+  },
+  "NL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BD": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BY": {
+   "ips": 1,
+   "requests": 1
+  },
+  "KH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "IN": {
+   "ips": 2,
+   "requests": 2
+  },
+  "RU": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/contact",
+   14
+  ],
+  [
+   "/",
+   13
+  ],
+  [
+   "/timeline/",
+   10
+  ],
+  [
+   "/refund",
+   10
+  ],
+  [
+   "/privacy",
+   10
+  ],
+  [
+   "/terms",
+   10
+  ],
+  [
+   "/guide/pay",
+   7
+  ],
+  [
+   "/pricing",
+   7
+  ],
+  [
+   "/account",
+   7
+  ],
+  [
+   "/iterations/",
+   5
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   5
+  ],
+  [
+   "/favicon.ico",
+   5
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   5
+  ],
+  [
+   "/news/assets/css/theme.css",
+   5
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-14.preview.webp",
+   4
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   4
+  ],
+  [
+   "/news/glossary/glossary.js",
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-19.display.webp",
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-18.preview.webp",
+   4
+  ],
+  [
+   "/timeline/letters",
+   4
+  ]
+ ]
+}

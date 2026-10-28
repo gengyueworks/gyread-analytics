@@ -1,0 +1,181 @@
+{
+ "date": "2026-10-07",
+ "requests_total": 8348,
+ "by_type": {
+  "human": 6506,
+  "bot": 1581,
+  "own": 0,
+  "script": 0,
+  "other": 191,
+  "empty": 70
+ },
+ "unique_human_ips": 259,
+ "unique_bot_ips": 289,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 13,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "CN": {
+   "ips": 12,
+   "requests": 2638
+  },
+  "US": {
+   "ips": 76,
+   "requests": 4515
+  },
+  "SG": {
+   "ips": 112,
+   "requests": 295
+  },
+  "JP": {
+   "ips": 3,
+   "requests": 23
+  },
+  "BE": {
+   "ips": 4,
+   "requests": 7
+  },
+  "ZA": {
+   "ips": 1,
+   "requests": 8
+  },
+  "AE": {
+   "ips": 1,
+   "requests": 4
+  },
+  "HK": {
+   "ips": 5,
+   "requests": 8
+  },
+  "ID": {
+   "ips": 3,
+   "requests": 5
+  },
+  "NL": {
+   "ips": 3,
+   "requests": 4
+  },
+  "KR": {
+   "ips": 7,
+   "requests": 10
+  },
+  "DE": {
+   "ips": 16,
+   "requests": 29
+  },
+  "FR": {
+   "ips": 1,
+   "requests": 2
+  },
+  "TH": {
+   "ips": 3,
+   "requests": 4
+  },
+  "SE": {
+   "ips": 3,
+   "requests": 5
+  },
+  "BR": {
+   "ips": 4,
+   "requests": 6
+  },
+  "SA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "GB": {
+   "ips": 2,
+   "requests": 4
+  },
+  "RU": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TR": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/",
+   15
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   10
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   9
+  ],
+  [
+   "/pricing",
+   9
+  ],
+  [
+   "/guide/pay",
+   9
+  ],
+  [
+   "/timeline/standards",
+   7
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   7
+  ],
+  [
+   "/assets/apod/apod-pool-27.webp",
+   7
+  ],
+  [
+   "/timeline/",
+   6
+  ],
+  [
+   "/assets/apod/apod-pool-24.webp",
+   6
+  ],
+  [
+   "/assets/apod/apod-pool-14.webp",
+   6
+  ],
+  [
+   "/favicon.ico",
+   6
+  ],
+  [
+   "/assets/covers/cover-ncr-vault.webp",
+   6
+  ],
+  [
+   "/news/ai-news-story.html",
+   5
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   5
+  ],
+  [
+   "/timeline/growth",
+   5
+  ],
+  [
+   "/assets/apod/apod-pool-02.webp",
+   5
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
+   5
+  ],
+  [
+   "/assets/apod/apod-pool-29.webp",
+   5
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   5
+  ]
+ ]
+}

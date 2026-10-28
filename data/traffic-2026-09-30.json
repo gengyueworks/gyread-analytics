@@ -1,0 +1,117 @@
+{
+ "date": "2026-09-30",
+ "requests_total": 3230,
+ "by_type": {
+  "human": 1330,
+  "bot": 1760,
+  "own": 0,
+  "script": 0,
+  "other": 140,
+  "empty": 0
+ },
+ "unique_human_ips": 42,
+ "unique_bot_ips": 142,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 8,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "US": {
+   "ips": 15,
+   "requests": 290
+  },
+  "SG": {
+   "ips": 3,
+   "requests": 130
+  },
+  "ES": {
+   "ips": 9,
+   "requests": 90
+  },
+  "CN": {
+   "ips": 5,
+   "requests": 60
+  },
+  "PT": {
+   "ips": 4,
+   "requests": 40
+  },
+  "DE": {
+   "ips": 2,
+   "requests": 20
+  },
+  "KR": {
+   "ips": 2,
+   "requests": 20
+  },
+  "HK": {
+   "ips": 2,
+   "requests": 20
+  }
+ },
+ "top_pages": [
+  [
+   "/deep/cover/emergent-v12.webp",
+   2
+  ],
+  [
+   "/",
+   2
+  ],
+  [
+   "/timeline/icon-180.png",
+   1
+  ],
+  [
+   "/favicon.ico",
+   1
+  ],
+  [
+   "/%22data:image/svg+xml,%3Csvg",
+   1
+  ],
+  [
+   "/deep/cover/emergent-v11.webp",
+   1
+  ],
+  [
+   "/assets/reals/badge-luminous.webp",
+   1
+  ],
+  [
+   "/ncr/",
+   1
+  ],
+  [
+   "/assets/reals/badge-news.webp",
+   1
+  ],
+  [
+   "/news/2026-07/2026-07-31.html",
+   1
+  ],
+  [
+   "/news/2026-08/2026-08-21",
+   1
+  ],
+  [
+   "/news/2026-06/2026-06-14.html",
+   1
+  ],
+  [
+   "/news/2026-06/2026-06-05.html",
+   1
+  ],
+  [
+   "/news/2026-07/2026-07-30.html",
+   1
+  ],
+  [
+   "/news/2026-07/2026-07-06",
+   1
+  ],
+  [
+   "/news/2026-07/2026-07-14",
+   1
+  ]
+ ]
+}

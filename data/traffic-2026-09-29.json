@@ -1,0 +1,141 @@
+{
+ "date": "2026-09-29",
+ "requests_total": 3390,
+ "by_type": {
+  "human": 1700,
+  "bot": 1400,
+  "own": 0,
+  "script": 0,
+  "other": 240,
+  "empty": 50
+ },
+ "unique_human_ips": 33,
+ "unique_bot_ips": 36,
+ "unique_own_ips": 0,
+ "unique_scanner_ips": 11,
+ "unique_suspect_ips": 1,
+ "countries": {
+  "US": {
+   "ips": 21,
+   "requests": 920
+  },
+  "CN": {
+   "ips": 2,
+   "requests": 190
+  },
+  "TW": {
+   "ips": 1,
+   "requests": 40
+  },
+  "IN": {
+   "ips": 2,
+   "requests": 30
+  },
+  "SG": {
+   "ips": 2,
+   "requests": 20
+  },
+  "GB": {
+   "ips": 1,
+   "requests": 10
+  },
+  "TH": {
+   "ips": 1,
+   "requests": 10
+  },
+  "CA": {
+   "ips": 1,
+   "requests": 10
+  },
+  "RO": {
+   "ips": 1,
+   "requests": 10
+  },
+  "DE": {
+   "ips": 1,
+   "requests": 10
+  }
+ },
+ "top_pages": [
+  [
+   "/ncr/",
+   3
+  ],
+  [
+   "/news/2026-09/2026-09-29.html",
+   2
+  ],
+  [
+   "/timeline/",
+   2
+  ],
+  [
+   "/contact",
+   2
+  ],
+  [
+   "/news/2026-08/2026-08-20.html",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-23.html",
+   1
+  ],
+  [
+   "/deep/cover/emergent-v11.webp",
+   1
+  ],
+  [
+   "/news/ai-news-story",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-10",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-18.html",
+   1
+  ],
+  [
+   "/news/en/",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-11.html",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-17",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-14.html",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-24",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-15",
+   1
+  ],
+  [
+   "/assets/reals/badge-dict.webp",
+   1
+  ],
+  [
+   "/assets/reals/badge-ncr.webp",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-18",
+   1
+  ],
+  [
+   "/news/2026-09/2026-09-16",
+   1
+  ]
+ ]
+}
