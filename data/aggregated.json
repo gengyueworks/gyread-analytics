@@ -1,56 +1,38 @@
 {
- "generated_at": "2026-10-28 09:05:06",
- "latest_date": "2026-10-28",
- "latest_human_ips": 7,
+ "generated_at": "2026-10-29 09:05:12",
+ "latest_date": "2026-10-29",
+ "latest_human_ips": 3,
  "latest_scanner_ips": 0,
  "latest_suspect_ips": 0,
- "latest_countries": 6,
+ "latest_countries": 3,
  "new_countries": [
-  "ZA"
+  "JP",
+  "NL"
  ],
  "latest_by_type": {
-  "human": 200,
-  "bot": 4,
-  "own": 236,
+  "human": 65,
+  "bot": 12,
+  "own": 567,
   "script": 0,
-  "other": 1,
-  "empty": 1
+  "other": 6,
+  "empty": 3
  },
- "prev_human_ips": 117,
+ "prev_human_ips": 7,
  "cc": {
   "US": {
    "ips": 1,
-   "requests": 181
+   "requests": 24
   },
-  "BE": {
+  "NL": {
    "ips": 1,
    "requests": 2
   },
-  "CO": {
-   "ips": 1,
-   "requests": 15
-  },
-  "CN": {
-   "ips": 2,
-   "requests": 2
-  },
-  "HK": {
-   "ips": 1,
-   "requests": 1
-  },
-  "ZA": {
+  "JP": {
    "ips": 1,
    "requests": 1
   }
  },
  "daily": [
-  {
-   "date": "2026-09-29",
-   "human_ips": 33,
-   "human_req": 1250,
-   "bot_ips": 36,
-   "own_ips": 0
-  },
   {
    "date": "2026-09-30",
    "human_ips": 42,
@@ -253,79 +235,30 @@
    "human_req": 202,
    "bot_ips": 2,
    "own_ips": 1
+  },
+  {
+   "date": "2026-10-29",
+   "human_ips": 3,
+   "human_req": 27,
+   "bot_ips": 6,
+   "own_ips": 1
   }
  ],
  "top_pages": [
   [
-   "/news/glossary/ai-dictionary-lite-inline.js",
-   2
+   "/assets/covers/cover-ncr-vault.webp",
+   1
   ],
   [
-   "/news/glossary/glossary.css",
-   2
-  ],
-  [
-   "/news/assets/css/subscribe-email-hint.css",
-   2
-  ],
-  [
-   "/news/assets/js/ai-news-theme.js",
-   2
-  ],
-  [
-   "/news/assets/css/theme.css",
-   2
-  ],
-  [
-   "/news/assets/css/newsletter-subscribe.css",
-   2
-  ],
-  [
-   "/news/assets/js/newsletter-subscribe.js",
-   2
-  ],
-  [
-   "/news/assets/js/subscribe-btn-repoint.js",
-   2
-  ],
-  [
-   "/news/glossary/glossary.js",
-   2
-  ],
-  [
-   "/news/assets/css/newsletter-sub-issue-cta.css",
-   2
+   "/assets/covers/cover-timeline.webp",
+   1
   ],
   [
    "/assets/covers/cover-luminous.webp",
    1
   ],
   [
-   "/news/latest.html",
-   1
-  ],
-  [
-   "/news/2026-10-27",
-   1
-  ],
-  [
-   "/news/en/latest.html",
-   1
-  ],
-  [
-   "/news/assets/fonts/fonts.css",
-   1
-  ],
-  [
-   "/news/",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
+   "/assets/apod/curiosity/apod-daily-20261027.display.webp",
    1
   ],
   [
@@ -333,7 +266,55 @@
    1
   ],
   [
+   "/",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261028.display.webp",
+   1
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
+   1
+  ],
+  [
    "/assets/apod/curiosity/apod-daily-20261024.display.webp",
+   1
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   1
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-29.display.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-27.display.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261026.display.webp",
+   1
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
    1
   ]
  ],
@@ -341,11 +322,11 @@
  "total_page_tot": [
   [
    "/",
-   350
+   351
   ],
   [
    "/timeline/",
-   202
+   200
   ],
   [
    "/news/",
@@ -365,7 +346,7 @@
   ],
   [
    "/contact",
-   93
+   91
   ],
   [
    "/news/assets/js/ai-news-theme.js",
@@ -373,7 +354,7 @@
   ],
   [
    "/assets/fonts/jetbrains-mono-variable.woff2",
-   83
+   84
   ],
   [
    "/guide/pay",
@@ -381,23 +362,23 @@
   ],
   [
    "/assets/fonts/inter-variable.woff2",
-   75
+   76
   ],
   [
    "/assets/covers/cover-luminous.webp",
-   74
+   75
   ],
   [
    "/news/assets/css/theme.css",
    71
   ],
   [
-   "/news/assets/fonts/fonts.css",
+   "/assets/covers/cover-dict.webp",
    69
   ],
   [
-   "/assets/covers/cover-dict.webp",
-   68
+   "/news/assets/fonts/fonts.css",
+   69
   ],
   [
    "/account",
@@ -405,14 +386,14 @@
   ],
   [
    "/assets/covers/cover-timeline.webp",
-   65
-  ],
-  [
-   "/privacy",
-   63
+   66
   ],
   [
    "/assets/covers/cover-news.webp",
+   64
+  ],
+  [
+   "/privacy",
    63
   ],
   [
@@ -437,7 +418,7 @@
   ],
   [
    "/assets/apod/curiosity/apod-pool-24.display.webp",
-   49
+   50
   ],
   [
    "/news/glossary/glossary.js",
@@ -449,11 +430,11 @@
   ],
   [
    "/assets/covers/cover-ncr-vault.webp",
-   41
+   42
   ],
   [
    "/assets/covers/cover-deep.webp",
-   40
+   41
   ],
   [
    "/deep/envelope-emergent-klein.webp",
@@ -463,15 +444,15 @@
  "total_cc_req": [
   [
    "US",
-   87399
+   86503
   ],
   [
    "CN",
-   7950
+   7760
   ],
   [
    "SG",
-   4064
+   4044
   ],
   [
    "PL",
@@ -479,19 +460,19 @@
   ],
   [
    "DE",
-   1761
+   1751
   ],
   [
    "CA",
-   1498
+   1488
   ],
   [
    "JP",
-   912
+   913
   ],
   [
    "IN",
-   718
+   688
   ],
   [
    "HK",
@@ -507,7 +488,7 @@
   ],
   [
    "NL",
-   550
+   552
   ],
   [
    "FR",
@@ -523,11 +504,7 @@
   ],
   [
    "GB",
-   257
-  ],
-  [
-   "TW",
-   250
+   247
   ],
   [
    "IL",
@@ -538,12 +515,16 @@
    236
   ],
   [
+   "TW",
+   210
+  ],
+  [
    "KR",
    208
   ],
   [
    "RO",
-   172
+   162
   ],
   [
    "VN",
@@ -603,7 +584,7 @@
   ],
   [
    "TH",
-   53
+   43
   ],
   [
    "AE",
@@ -702,34 +683,34 @@
    9
   ]
  ],
- "total_human_req": 114108,
- "total_bot_req": 88027,
- "total_own_req": 71568,
+ "total_human_req": 112885,
+ "total_bot_req": 86639,
+ "total_own_req": 72135,
  "total_cc_count": 60,
  "d7_days": 7,
  "d7_page_tot": [
   [
    "/",
-   69
+   59
   ],
   [
    "/news/",
-   41
+   35
   ],
   [
    "/timeline/",
-   40
+   35
   ],
   [
    "/news/assets/js/ai-news-theme.js",
-   27
-  ],
-  [
-   "/assets/fonts/fonts.css",
-   21
+   23
   ],
   [
    "/assets/apod/curiosity/apod-pool-24.display.webp",
+   22
+  ],
+  [
+   "/assets/fonts/fonts.css",
    21
   ],
   [
@@ -738,46 +719,38 @@
   ],
   [
    "/assets/apod/curiosity/apod-daily-20261024.display.webp",
-   18
-  ],
-  [
-   "/assets/covers/cover-timeline.webp",
-   17
-  ],
-  [
-   "/news/assets/fonts/fonts.css",
-   16
+   19
   ],
   [
    "/assets/covers/cover-luminous.webp",
-   15
+   16
   ],
   [
    "/assets/covers/cover-dict.webp",
-   15
-  ],
-  [
-   "/assets/covers/cover-news.webp",
-   14
+   16
   ],
   [
    "/assets/fonts/jetbrains-mono-variable.woff2",
-   14
+   15
   ],
   [
    "/assets/fonts/inter-variable.woff2",
-   14
+   15
   ],
   [
-   "/news/assets/css/theme.css",
-   13
-  ],
-  [
-   "/news/glossary/ai-dictionary-lite-inline.js",
-   12
+   "/assets/covers/cover-timeline.webp",
+   15
   ],
   [
    "/assets/apod/curiosity/apod-pool-29.display.webp",
+   13
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
+   13
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
    12
   ],
   [
@@ -785,12 +758,8 @@
    12
   ],
   [
-   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
+   "/assets/covers/cover-news.webp",
    12
-  ],
-  [
-   "/news/assets/css/main.css",
-   11
   ],
   [
    "/terms",
@@ -799,10 +768,6 @@
   [
    "/assets/apod/curiosity/apod-daily-20261022.display.webp",
    11
-  ],
-  [
-   "/news/glossary/glossary.js",
-   10
   ],
   [
    "/refund",
@@ -817,34 +782,46 @@
    9
   ],
   [
-   "/news/assets/fonts/jetbrains-mono-variable.woff2",
-   8
+   "/news/assets/css/theme.css",
+   9
   ],
   [
-   "/news/assets/fonts/inter-variable.woff2",
+   "/news/glossary/ai-dictionary-lite-inline.js",
    8
   ],
   [
    "/pricing",
+   8
+  ],
+  [
+   "/account",
+   8
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   8
+  ],
+  [
+   "/assets/covers/cover-ncr-vault.webp",
+   8
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-27.display.webp",
    8
   ]
  ],
  "d7_cc_req": [
   [
    "US",
-   9401
+   8708
   ],
   [
    "CN",
-   956
-  ],
-  [
-   "DE",
-   707
+   798
   ],
   [
    "IN",
-   555
+   552
   ],
   [
    "CL",
@@ -852,78 +829,82 @@
   ],
   [
    "PL",
-   512
+   511
   ],
   [
    "SG",
-   342
+   285
   ],
   [
    "CA",
    146
   ],
   [
-   "FR",
-   133
+   "DE",
+   135
   ],
   [
-   "TW",
-   109
+   "FR",
+   132
   ],
   [
    "BE",
-   103
+   71
   ],
   [
-   "JP",
-   42
-  ],
-  [
-   "BR",
-   41
+   "TW",
+   45
   ],
   [
    "CO",
    38
   ],
   [
-   "KR",
+   "JP",
    37
   ],
   [
-   "HK",
-   35
+   "BR",
+   34
   ],
   [
-   "GB",
+   "HK",
    30
   ],
   [
-   "BD",
-   21
+   "GB",
+   29
   ],
   [
-   "SE",
-   16
+   "KR",
+   28
+  ],
+  [
+   "BD",
+   18
+  ],
+  [
+   "NL",
+   17
   ],
   [
    "ID",
    16
   ],
   [
-   "NL",
-   15
-  ],
-  [
-   "VN",
-   13
-  ],
-  [
    "EC",
    13
   ],
   [
+   "SE",
+   12
+  ],
+  [
    "TH",
+   10
+  ],
+  [
+   "VN",
    10
   ],
   [
@@ -931,23 +912,15 @@
    6
   ],
   [
-   "TR",
-   3
-  ],
-  [
    "FI",
    3
   ],
   [
-   "KZ",
-   2
-  ],
-  [
-   "PH",
-   2
-  ],
-  [
    "OM",
+   2
+  ],
+  [
+   "TR",
    2
   ],
   [
@@ -959,15 +932,11 @@
    2
   ],
   [
-   "GA",
-   1
-  ],
-  [
-   "PE",
-   1
-  ],
-  [
    "BO",
+   1
+  ],
+  [
+   "KZ",
    1
   ],
   [
@@ -999,9 +968,13 @@
    1
   ],
   [
+   "PH",
+   1
+  ],
+  [
    "ZA",
    1
   ]
  ],
- "d7_human_req": 13873
+ "d7_human_req": 12252
 }
