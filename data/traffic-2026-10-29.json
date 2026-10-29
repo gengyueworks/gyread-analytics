@@ -1,48 +1,80 @@
 {
  "date": "2026-10-29",
- "requests_total": 653,
+ "requests_total": 1983,
  "by_type": {
-  "human": 65,
-  "bot": 12,
-  "own": 567,
+  "human": 280,
+  "bot": 37,
+  "own": 1633,
   "script": 0,
-  "other": 6,
-  "empty": 3
+  "other": 26,
+  "empty": 7
  },
- "unique_human_ips": 3,
- "unique_bot_ips": 6,
+ "unique_human_ips": 30,
+ "unique_bot_ips": 14,
  "unique_own_ips": 1,
- "unique_scanner_ips": 0,
+ "unique_scanner_ips": 1,
  "unique_suspect_ips": 0,
  "countries": {
+  "CN": {
+   "ips": 4,
+   "requests": 6
+  },
   "US": {
+   "ips": 9,
+   "requests": 32
+  },
+  "VN": {
    "ips": 1,
-   "requests": 24
+   "requests": 1
+  },
+  "CH": {
+   "ips": 1,
+   "requests": 23
+  },
+  "HK": {
+   "ips": 2,
+   "requests": 2
+  },
+  "RO": {
+   "ips": 1,
+   "requests": 1
+  },
+  "DE": {
+   "ips": 3,
+   "requests": 3
+  },
+  "SG": {
+   "ips": 3,
+   "requests": 3
   },
   "NL": {
    "ips": 1,
    "requests": 2
   },
-  "JP": {
+  "BR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "ET": {
    "ips": 1,
-   "requests": 1
+   "requests": 2
+  },
+  "JP": {
+   "ips": 2,
+   "requests": 2
   }
  },
  "top_pages": [
   [
+   "/news/2026-10/2026-10-18.html",
+   2
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   1
+  ],
+  [
    "/assets/covers/cover-ncr-vault.webp",
-   1
-  ],
-  [
-   "/assets/covers/cover-timeline.webp",
-   1
-  ],
-  [
-   "/assets/covers/cover-luminous.webp",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261027.display.webp",
    1
   ],
   [
@@ -50,43 +82,7 @@
    1
   ],
   [
-   "/",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261028.display.webp",
-   1
-  ],
-  [
-   "/assets/fonts/jetbrains-mono-variable.woff2",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
-   1
-  ],
-  [
-   "/assets/covers/cover-deep.webp",
-   1
-  ],
-  [
-   "/assets/fonts/inter-variable.woff2",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-24.display.webp",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-29.display.webp",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-27.display.webp",
+   "/assets/covers/cover-luminous.webp",
    1
   ],
   [
@@ -94,11 +90,59 @@
    1
   ],
   [
-   "/assets/covers/cover-news.webp",
+   "/",
+   1
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-29.display.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
+   1
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
    1
   ],
   [
    "/assets/apod/curiosity/apod-daily-20261025.display.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-27.display.webp",
+   1
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   1
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261027.display.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261028.display.webp",
+   1
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   1
+  ],
+  [
+   "/timeline/",
    1
   ]
  ]

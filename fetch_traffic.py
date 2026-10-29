@@ -182,11 +182,13 @@ def main():
     start = datetime.date.fromisoformat(args.start) if args.start else today - datetime.timedelta(days=args.days - 1)
     days = [(start + datetime.timedelta(days=i)).isoformat() for i in range((today - start).days + 1)]
 
-    # 每个日期先读已有快照，缺的才现查（CF 只留 30 天，早于 30 天用缓存）
+    # 每个日期先读已有快照，缺的才现查；但最近 3 天强制重抓——
+    # 早上跑出来的当日快照是「半日」，必须被补齐成全量，否则会把半日当完整日。
+    REFRESH_DAYS = {(today - datetime.timedelta(days=i)).isoformat() for i in range(0, 3)}
     snapshots = {}
     for d in sorted(days):
         p = os.path.join(DATA_DIR, f"traffic-{d}.json")
-        if os.path.exists(p):
+        if os.path.exists(p) and d not in REFRESH_DAYS:
             try:
                 snapshots[d] = json.load(open(p, encoding="utf-8"))
                 continue
@@ -219,14 +221,21 @@ def main():
         daily.append({"date": s["date"], "human_ips": s["unique_human_ips"],
                       "human_req": sum(v["requests"] for v in s["countries"].values()),
                       "bot_ips": s["unique_bot_ips"], "own_ips": s["unique_own_ips"]})
+    today_utc = datetime.date.today().isoformat()
+    # 最新一天 = 最近一个「UTC 已过完」的完整日；今天的数据单独作为“进行中”，不当成最新一天
     latest = None
     for d in reversed(sorted(snapshots.keys())):
         s = snapshots[d]
-        if s.get("requests_total", 0) > 0:
+        if d < today_utc and s.get("requests_total", 0) > 0:
             latest = s
             break
+    if latest is None:  # 兜底：全都不是完整日（极少见）
+        for d in reversed(sorted(snapshots.keys())):
+            if snapshots[d].get("requests_total", 0) > 0:
+                latest = snapshots[d]; break
     if latest is None:
         sys.exit("没有任何有数据的快照")
+    today_snap = snapshots.get(today_utc) if snapshots.get(today_utc, {}).get("requests_total", 0) > 0 else None
     prev = None
     for d in reversed(sorted(snapshots.keys())):
         if d < latest["date"] and snapshots[d].get("requests_total", 0) > 0:
@@ -267,6 +276,10 @@ def main():
     agg = {
         "generated_at": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "latest_date": latest["date"],
+        "today_date": today_snap["date"] if today_snap else None,
+        "today_human_ips": today_snap["unique_human_ips"] if today_snap else 0,
+        "today_human_req": sum(v["requests"] for v in today_snap["countries"].values()) if today_snap else 0,
+        "today_is_partial": bool(today_snap),
         "latest_human_ips": latest["unique_human_ips"],
         "latest_scanner_ips": latest.get("unique_scanner_ips", 0),
         "latest_suspect_ips": latest.get("unique_suspect_ips", 0),
@@ -370,7 +383,9 @@ def render(a):
         f"<tr><td class=cc>{cname(cc)} <span class=code>{cc}</span></td><td>{v['ips']}</td><td>{v['requests']}</td><td>{'<span class=new>新</span>' if cc in a['new_countries'] else ''}</td></tr>"
         for cc, v in sorted(a["cc"].items(), key=lambda kv: -kv[1]["ips"])
     )
-    _dr = lambda d: f"<tr><td>{d['date']}</td><td>{d['human_ips']}</td><td>{d['human_req']}</td><td>{d['bot_ips']}</td></tr>"
+    _dr = lambda d: (f"<tr{' class=partial' if a.get('today_date') == d['date'] else ''}><td>{d['date']}"
+                     f"{' <span class=live>进行中</span>' if a.get('today_date') == d['date'] else ''}</td>"
+                     f"<td>{d['human_ips']}</td><td>{d['human_req']}</td><td>{d['bot_ips']}</td></tr>")
     _d = list(reversed(a["daily"]))
     daily_rows_7 = "".join(_dr(d) for d in _d[:7])
     _trend_all = "".join(_dr(d) for d in _d[7:])
@@ -429,6 +444,8 @@ tr:last-child td{{border-bottom:none}}
 .cc{{font-weight:700}}
 .code{{color:var(--mut);font-weight:400;font-size:11px;margin-left:4px;font-family:ui-monospace,Menlo,monospace}}
 .new{{color:#c0392b;font-weight:700}}
+.live{{display:inline-block;font-size:10px;background:#0a7c4a;color:#fff;border-radius:4px;padding:0 5px;vertical-align:1px}}
+tr.partial td{{color:#8a93a3;font-style:italic}}
 .pg{{font-family:ui-monospace,Menlo,monospace;font-size:12px;word-break:break-all}}
 .foot{{color:var(--mut);font-size:11px;margin-top:32px;line-height:1.9}}
 .pill{{display:inline-block;background:#eef1f7;color:var(--blue);border-radius:20px;padding:2px 10px;font-size:12px;margin-right:6px}}
@@ -451,7 +468,8 @@ table{{table-layout:fixed}}
 <div class=sub>数据源：Cloudflare GraphQL（账户级） · 已剔除自家监控（gyread-monitor / probe-drift / 222.209.110-109）与已知爬虫UA · UTC 日界 · 生成于 {a["generated_at"]}</div>
 
 <div class=cards>
- <div class=card><div class=n>{a["latest_human_ips"]}</div><div class=t>最新一天真人访客（独立IP）{f'"　较前一日 {a["latest_human_ips"]-(a["prev_human_ips"] or 0):+d}"' if a["prev_human_ips"] is not None else ""}</div></div>
+ <div class=card><div class=n>{a["latest_human_ips"]}</div><div class=t>最近完整日（{a["latest_date"]}）真人访客（独立IP）{f'"　较前一日 {a["latest_human_ips"]-(a["prev_human_ips"] or 0):+d}"' if a["prev_human_ips"] is not None else ""}</div></div>
+ <div class=card><div class=n>{a["today_human_ips"]}</div><div class=t>今天（{a["today_date"] or "—"}）进行中 · 真人IP</div></div>
  <div class=card><div class=n>{human_req}</div><div class=t>当天真人页面请求</div></div>
  <div class=card><div class=n>{a["latest_countries"]}</div><div class=t>覆盖国家/地区</div></div>
  <div class=card class="{'new' if a['new_countries'] else ''}"><div class=n>{len(a['new_countries'])}</div><div class=t>新增国家{('<div class=tag>' + ' · '.join(a['new_countries']) + '</div>') if a['new_countries'] else ''}</div></div>
@@ -464,7 +482,7 @@ table{{table-layout:fixed}}
 <div class=mapwrap>{map_svg}</div>
 <div class=sub style="margin-top:6px">颜色越深 = 上线以来累计请求越多　·　<span style="color:#c0392b">红色描边</span> = 最近一天新出现　·　悬停国家查看详情</div>
 
-<h2>国家 / 地区分布（最新一天 · 真人独立 IP）</h2>
+<h2>国家 / 地区分布（最近完整日 {a["latest_date"]} · 真人独立 IP）</h2>
 <div class=cards style="margin-bottom:8px">
 <span class=pill>爬虫UA名单已剔除 {len(mk)} 类</span><span class=pill>自家监控单列</span><span class=pill>高频单IP(>{shf}/天)需人工看</span>
 </div>

@@ -1,125 +1,193 @@
 {
  "date": "2026-10-28",
- "requests_total": 442,
+ "requests_total": 8646,
  "by_type": {
-  "human": 200,
-  "bot": 4,
-  "own": 236,
+  "human": 996,
+  "bot": 454,
+  "own": 7113,
   "script": 0,
-  "other": 1,
-  "empty": 1
+  "other": 70,
+  "empty": 13
  },
- "unique_human_ips": 7,
- "unique_bot_ips": 2,
- "unique_own_ips": 1,
- "unique_scanner_ips": 0,
+ "unique_human_ips": 121,
+ "unique_bot_ips": 51,
+ "unique_own_ips": 39,
+ "unique_scanner_ips": 9,
  "unique_suspect_ips": 0,
  "countries": {
   "US": {
-   "ips": 1,
-   "requests": 181
+   "ips": 61,
+   "requests": 816
   },
   "BE": {
-   "ips": 1,
-   "requests": 2
-  },
-  "CO": {
-   "ips": 1,
-   "requests": 15
+   "ips": 6,
+   "requests": 17
   },
   "CN": {
+   "ips": 16,
+   "requests": 72
+  },
+  "CA": {
+   "ips": 1,
+   "requests": 21
+  },
+  "CO": {
+   "ips": 2,
+   "requests": 25
+  },
+  "FR": {
+   "ips": 2,
+   "requests": 6
+  },
+  "HK": {
+   "ips": 2,
+   "requests": 3
+  },
+  "DE": {
+   "ips": 5,
+   "requests": 6
+  },
+  "KR": {
+   "ips": 3,
+   "requests": 3
+  },
+  "MY": {
    "ips": 2,
    "requests": 2
   },
-  "HK": {
+  "SG": {
+   "ips": 3,
+   "requests": 3
+  },
+  "SE": {
+   "ips": 3,
+   "requests": 3
+  },
+  "JP": {
+   "ips": 2,
+   "requests": 2
+  },
+  "BR": {
+   "ips": 2,
+   "requests": 2
+  },
+  "TW": {
+   "ips": 1,
+   "requests": 2
+  },
+  "BD": {
+   "ips": 3,
+   "requests": 3
+  },
+  "AR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "TH": {
+   "ips": 1,
+   "requests": 1
+  },
+  "NL": {
+   "ips": 1,
+   "requests": 1
+  },
+  "MX": {
+   "ips": 1,
+   "requests": 1
+  },
+  "ID": {
    "ips": 1,
    "requests": 1
   },
   "ZA": {
    "ips": 1,
    "requests": 1
+  },
+  "CL": {
+   "ips": 1,
+   "requests": 1
   }
  },
  "top_pages": [
   [
-   "/news/glossary/ai-dictionary-lite-inline.js",
-   2
+   "/",
+   7
   ],
   [
-   "/news/glossary/glossary.css",
-   2
+   "/assets/covers/cover-timeline.webp",
+   5
   ],
   [
-   "/news/assets/css/subscribe-email-hint.css",
-   2
-  ],
-  [
-   "/news/assets/js/ai-news-theme.js",
-   2
-  ],
-  [
-   "/news/assets/css/theme.css",
-   2
-  ],
-  [
-   "/news/assets/css/newsletter-subscribe.css",
-   2
-  ],
-  [
-   "/news/assets/js/newsletter-subscribe.js",
-   2
-  ],
-  [
-   "/news/assets/js/subscribe-btn-repoint.js",
-   2
-  ],
-  [
-   "/news/glossary/glossary.js",
-   2
-  ],
-  [
-   "/news/assets/css/newsletter-sub-issue-cta.css",
-   2
-  ],
-  [
-   "/assets/covers/cover-luminous.webp",
-   1
-  ],
-  [
-   "/news/latest.html",
-   1
-  ],
-  [
-   "/news/2026-10-27",
-   1
-  ],
-  [
-   "/news/en/latest.html",
-   1
-  ],
-  [
-   "/news/assets/fonts/fonts.css",
-   1
-  ],
-  [
-   "/news/",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
-   1
+   "/assets/fonts/inter-variable.woff2",
+   5
   ],
   [
    "/assets/covers/cover-dict.webp",
-   1
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
+   4
   ],
   [
    "/assets/apod/curiosity/apod-daily-20261024.display.webp",
-   1
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-29.display.webp",
+   4
+  ],
+  [
+   "/assets/covers/cover-news.webp",
+   4
+  ],
+  [
+   "/assets/fonts/fonts.css",
+   4
+  ],
+  [
+   "/assets/covers/cover-ncr-vault.webp",
+   4
+  ],
+  [
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261026.display.webp",
+   4
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-27.display.webp",
+   4
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261027.display.webp",
+   4
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
+   3
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
+   3
+  ],
+  [
+   "/news/",
+   3
   ]
  ]
 }
