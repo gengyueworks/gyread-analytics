@@ -1,131 +1,113 @@
 {
- "generated_at": "2026-10-29 12:56:06",
- "latest_date": "2026-10-28",
- "today_date": "2026-10-29",
- "today_human_ips": 30,
- "today_human_req": 79,
+ "generated_at": "2026-10-30 09:05:29",
+ "latest_date": "2026-10-29",
+ "today_date": "2026-10-30",
+ "today_human_ips": 6,
+ "today_human_req": 84,
  "today_is_partial": true,
- "latest_human_ips": 121,
- "latest_scanner_ips": 9,
+ "latest_human_ips": 130,
+ "latest_scanner_ips": 3,
  "latest_suspect_ips": 0,
- "latest_countries": 23,
+ "latest_countries": 20,
  "new_countries": [
-  "CL",
-  "MX",
-  "MY",
-  "ZA"
+  "CH",
+  "ET",
+  "FI",
+  "RO",
+  "VN"
  ],
  "latest_by_type": {
-  "human": 996,
-  "bot": 454,
-  "own": 7113,
+  "human": 1324,
+  "bot": 508,
+  "own": 6649,
   "script": 0,
-  "other": 70,
-  "empty": 13
+  "other": 163,
+  "empty": 11
  },
- "prev_human_ips": 117,
+ "prev_human_ips": 121,
  "cc": {
-  "US": {
-   "ips": 61,
-   "requests": 816
+  "FR": {
+   "ips": 3,
+   "requests": 450
+  },
+  "CN": {
+   "ips": 20,
+   "requests": 90
   },
   "BE": {
    "ips": 6,
-   "requests": 17
-  },
-  "CN": {
-   "ips": 16,
-   "requests": 72
-  },
-  "CA": {
-   "ips": 1,
-   "requests": 21
-  },
-  "CO": {
-   "ips": 2,
-   "requests": 25
-  },
-  "FR": {
-   "ips": 2,
-   "requests": 6
-  },
-  "HK": {
-   "ips": 2,
-   "requests": 3
-  },
-  "DE": {
-   "ips": 5,
-   "requests": 6
-  },
-  "KR": {
-   "ips": 3,
-   "requests": 3
-  },
-  "MY": {
-   "ips": 2,
-   "requests": 2
+   "requests": 11
   },
   "SG": {
-   "ips": 3,
-   "requests": 3
+   "ips": 14,
+   "requests": 16
   },
-  "SE": {
-   "ips": 3,
-   "requests": 3
+  "DE": {
+   "ips": 9,
+   "requests": 17
   },
   "JP": {
+   "ips": 6,
+   "requests": 7
+  },
+  "BR": {
+   "ips": 7,
+   "requests": 10
+  },
+  "US": {
+   "ips": 42,
+   "requests": 67
+  },
+  "CH": {
+   "ips": 1,
+   "requests": 23
+  },
+  "SE": {
    "ips": 2,
    "requests": 2
   },
-  "BR": {
+  "KR": {
+   "ips": 5,
+   "requests": 5
+  },
+  "NL": {
    "ips": 2,
-   "requests": 2
+   "requests": 3
+  },
+  "VN": {
+   "ips": 3,
+   "requests": 3
+  },
+  "RO": {
+   "ips": 1,
+   "requests": 1
   },
   "TW": {
    "ips": 1,
+   "requests": 1
+  },
+  "ET": {
+   "ips": 1,
    "requests": 2
-  },
-  "BD": {
-   "ips": 3,
-   "requests": 3
-  },
-  "AR": {
-   "ips": 1,
-   "requests": 1
-  },
-  "TH": {
-   "ips": 1,
-   "requests": 1
-  },
-  "NL": {
-   "ips": 1,
-   "requests": 1
-  },
-  "MX": {
-   "ips": 1,
-   "requests": 1
   },
   "ID": {
    "ips": 1,
    "requests": 1
   },
-  "ZA": {
-   "ips": 1,
-   "requests": 1
+  "HK": {
+   "ips": 3,
+   "requests": 3
   },
-  "CL": {
+  "FI": {
+   "ips": 2,
+   "requests": 2
+  },
+  "TH": {
    "ips": 1,
    "requests": 1
   }
  },
  "daily": [
-  {
-   "date": "2026-09-30",
-   "human_ips": 42,
-   "human_req": 670,
-   "bot_ips": 142,
-   "own_ips": 0
-  },
   {
    "date": "2026-10-01",
    "human_ips": 196,
@@ -324,115 +306,122 @@
   },
   {
    "date": "2026-10-29",
-   "human_ips": 30,
-   "human_req": 79,
-   "bot_ips": 14,
+   "human_ips": 130,
+   "human_req": 715,
+   "bot_ips": 62,
+   "own_ips": 8
+  },
+  {
+   "date": "2026-10-30",
+   "human_ips": 6,
+   "human_req": 84,
+   "bot_ips": 9,
    "own_ips": 1
   }
  ],
  "top_pages": [
   [
-   "/",
+   "/timeline/",
    7
   ],
   [
-   "/assets/covers/cover-timeline.webp",
+   "/timeline/story.html",
    5
   ],
   [
-   "/assets/fonts/inter-variable.woff2",
-   5
-  ],
-  [
-   "/assets/covers/cover-dict.webp",
+   "/",
    4
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
-   4
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
-   4
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
-   4
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-24.display.webp",
-   4
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-29.display.webp",
-   4
-  ],
-  [
-   "/assets/covers/cover-news.webp",
-   4
-  ],
-  [
-   "/assets/fonts/fonts.css",
-   4
-  ],
-  [
-   "/assets/covers/cover-ncr-vault.webp",
-   4
-  ],
-  [
-   "/assets/fonts/jetbrains-mono-variable.woff2",
-   4
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261026.display.webp",
-   4
-  ],
-  [
-   "/assets/covers/cover-deep.webp",
-   4
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-27.display.webp",
-   4
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261027.display.webp",
-   4
-  ],
-  [
-   "/assets/covers/cover-luminous.webp",
-   3
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
-   3
   ],
   [
    "/news/",
+   4
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   4
+  ],
+  [
+   "/news/assets/css/theme.css",
+   4
+  ],
+  [
+   "/news/2026-10-25",
    3
+  ],
+  [
+   "/news/2026-10/2026-10-17.html",
+   3
+  ],
+  [
+   "/news/2026-10-17",
+   3
+  ],
+  [
+   "/news/2026-10/2026-10-18.html",
+   3
+  ],
+  [
+   "/news/2026-10-10",
+   3
+  ],
+  [
+   "/news/glossary/glossary.js",
+   3
+  ],
+  [
+   "/news/glossary/glossary.css",
+   3
+  ],
+  [
+   "/news/glossary/ai-dictionary-lite-inline.js",
+   3
+  ],
+  [
+   "/pricing",
+   2
+  ],
+  [
+   "/news/2026-10-27",
+   2
+  ],
+  [
+   "/news/2026-10/2026-10-27.html",
+   2
+  ],
+  [
+   "/news/2026-10-15",
+   2
+  ],
+  [
+   "/news/2026-10-18",
+   2
+  ],
+  [
+   "/news/2026-10/2026-10-25.html",
+   2
   ]
  ],
  "total_days": 30,
  "total_page_tot": [
   [
    "/",
-   358
+   360
   ],
   [
    "/timeline/",
-   201
+   211
   ],
   [
    "/news/",
-   127
+   131
   ],
   [
    "/assets/fonts/fonts.css",
-   119
+   120
   ],
   [
    "/pricing",
-   105
+   107
   ],
   [
    "/favicon.ico",
@@ -448,7 +437,7 @@
   ],
   [
    "/news/assets/js/ai-news-theme.js",
-   84
+   88
   ],
   [
    "/guide/pay",
@@ -460,19 +449,19 @@
   ],
   [
    "/assets/covers/cover-luminous.webp",
-   77
+   76
   ],
   [
    "/assets/covers/cover-dict.webp",
-   74
+   73
+  ],
+  [
+   "/news/assets/css/theme.css",
+   73
   ],
   [
    "/assets/covers/cover-timeline.webp",
    71
-  ],
-  [
-   "/news/assets/css/theme.css",
-   69
   ],
   [
    "/assets/covers/cover-news.webp",
@@ -496,18 +485,18 @@
   ],
   [
    "/news/assets/css/main.css",
-   58
-  ],
-  [
-   "/refund",
-   56
+   59
   ],
   [
    "/news/assets/fonts/jetbrains-mono-variable.woff2",
-   56
+   57
   ],
   [
    "/news/assets/fonts/inter-variable.woff2",
+   57
+  ],
+  [
+   "/refund",
    56
   ],
   [
@@ -515,38 +504,38 @@
    54
   ],
   [
-   "/assets/covers/cover-ncr-vault.webp",
-   46
+   "/news/glossary/glossary.js",
+   49
   ],
   [
    "/assets/covers/cover-deep.webp",
    45
   ],
   [
-   "/news/glossary/glossary.js",
+   "/assets/covers/cover-ncr-vault.webp",
    45
   ],
   [
    "/news/glossary/ai-dictionary-lite-inline.js",
-   39
+   42
   ],
   [
-   "/deep/envelope-emergent-klein.webp",
-   37
+   "/news/glossary/glossary.css",
+   38
   ]
  ],
  "total_cc_req": [
   [
    "US",
-   87146
+   86894
   ],
   [
    "CN",
-   7836
+   7940
   ],
   [
    "SG",
-   4050
+   3933
   ],
   [
    "PL",
@@ -554,7 +543,7 @@
   ],
   [
    "DE",
-   1760
+   1754
   ],
   [
    "CA",
@@ -562,15 +551,15 @@
   ],
   [
    "JP",
-   916
+   921
+  ],
+  [
+   "FR",
+   847
   ],
   [
    "IN",
    688
-  ],
-  [
-   "HK",
-   583
   ],
   [
    "CL",
@@ -578,19 +567,19 @@
   ],
   [
    "BR",
-   562
+   570
+  ],
+  [
+   "HK",
+   564
   ],
   [
    "NL",
-   553
-  ],
-  [
-   "FR",
-   396
+   554
   ],
   [
    "BE",
-   329
+   340
   ],
   [
    "QA",
@@ -605,24 +594,24 @@
    238
   ],
   [
-   "ES",
-   236
-  ],
-  [
    "TW",
-   212
+   213
   ],
   [
    "KR",
-   211
+   196
   ],
   [
    "RO",
    163
   ],
   [
+   "ES",
+   146
+  ],
+  [
    "VN",
-   124
+   126
   ],
   [
    "CO",
@@ -634,11 +623,11 @@
   ],
   [
    "SE",
-   87
+   89
   ],
   [
    "ID",
-   81
+   82
   ],
   [
    "BD",
@@ -647,10 +636,6 @@
   [
    "RU",
    67
-  ],
-  [
-   "PT",
-   66
   ],
   [
    "MX",
@@ -678,7 +663,7 @@
   ],
   [
    "TH",
-   44
+   45
   ],
   [
    "CH",
@@ -691,6 +676,10 @@
   [
    "UA",
    30
+  ],
+  [
+   "PT",
+   26
   ],
   [
    "KZ",
@@ -706,7 +695,7 @@
   ],
   [
    "FI",
-   23
+   25
   ],
   [
    "TN",
@@ -777,34 +766,26 @@
    9
   ]
  ],
- "total_human_req": 113728,
- "total_bot_req": 87114,
- "total_own_req": 80078,
+ "total_human_req": 113778,
+ "total_bot_req": 85848,
+ "total_own_req": 85470,
  "total_cc_count": 60,
  "d7_days": 7,
  "d7_page_tot": [
   [
    "/",
-   66
-  ],
-  [
-   "/news/",
-   37
+   61
   ],
   [
    "/timeline/",
-   36
+   39
+  ],
+  [
+   "/news/",
+   33
   ],
   [
    "/assets/apod/curiosity/apod-pool-24.display.webp",
-   26
-  ],
-  [
-   "/assets/fonts/fonts.css",
-   25
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
    22
   ],
   [
@@ -812,43 +793,43 @@
    21
   ],
   [
-   "/assets/covers/cover-dict.webp",
+   "/assets/fonts/fonts.css",
    21
   ],
   [
-   "/assets/fonts/inter-variable.woff2",
-   20
+   "/assets/apod/curiosity/apod-daily-20261024.display.webp",
+   21
   ],
   [
-   "/assets/covers/cover-timeline.webp",
-   20
-  ],
-  [
-   "/contact",
-   19
-  ],
-  [
-   "/assets/fonts/jetbrains-mono-variable.woff2",
-   19
-  ],
-  [
-   "/assets/covers/cover-luminous.webp",
-   18
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-29.display.webp",
-   17
+   "/assets/covers/cover-dict.webp",
+   16
   ],
   [
    "/assets/apod/curiosity/apod-daily-20261023.display.webp",
-   17
+   16
+  ],
+  [
+   "/assets/fonts/inter-variable.woff2",
+   16
+  ],
+  [
+   "/assets/covers/cover-timeline.webp",
+   16
   ],
   [
    "/assets/covers/cover-news.webp",
    16
   ],
   [
-   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   15
+  ],
+  [
+   "/contact",
+   13
+  ],
+  [
+   "/assets/covers/cover-luminous.webp",
    13
   ],
   [
@@ -860,19 +841,19 @@
    12
   ],
   [
-   "/assets/covers/cover-ncr-vault.webp",
-   12
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-27.display.webp",
-   12
-  ],
-  [
-   "/terms",
+   "/assets/apod/curiosity/apod-pool-29.display.webp",
    11
   ],
   [
-   "/news/assets/fonts/fonts.css",
+   "/assets/covers/cover-ncr-vault.webp",
+   11
+  ],
+  [
+   "/assets/apod/curiosity/apod-pool-27.display.webp",
+   11
+  ],
+  [
+   "/news/assets/css/theme.css",
    11
   ],
   [
@@ -880,11 +861,11 @@
    11
   ],
   [
-   "/refund",
+   "/pricing",
    10
   ],
   [
-   "/privacy",
+   "/assets/apod/curiosity/apod-daily-20261022.display.webp",
    10
   ],
   [
@@ -892,26 +873,34 @@
    9
   ],
   [
-   "/pricing",
-   8
-  ],
-  [
    "/account",
    8
   ],
   [
    "/news/assets/css/main.css",
+   8
+  ],
+  [
+   "/news/assets/fonts/fonts.css",
    7
+  ],
+  [
+   "/news/2026-10-25",
+   6
+  ],
+  [
+   "/news/glossary/glossary.js",
+   6
   ]
  ],
  "d7_cc_req": [
   [
    "US",
-   9351
+   6736
   ],
   [
    "CN",
-   874
+   870
   ],
   [
    "IN",
@@ -922,12 +911,16 @@
    550
   ],
   [
+   "FR",
+   549
+  ],
+  [
    "PL",
-   511
+   432
   ],
   [
    "SG",
-   291
+   237
   ],
   [
    "CA",
@@ -935,15 +928,11 @@
   ],
   [
    "DE",
-   144
-  ],
-  [
-   "FR",
-   138
+   119
   ],
   [
    "BE",
-   86
+   85
   ],
   [
    "CO",
@@ -951,27 +940,23 @@
   ],
   [
    "TW",
-   47
+   48
   ],
   [
    "JP",
-   40
+   39
   ],
   [
    "BR",
-   38
-  ],
-  [
-   "HK",
-   34
+   36
   ],
   [
    "KR",
-   31
+   34
   ],
   [
-   "GB",
-   29
+   "HK",
+   28
   ],
   [
    "CH",
@@ -979,31 +964,35 @@
   ],
   [
    "BD",
-   21
-  ],
-  [
-   "NL",
-   18
-  ],
-  [
-   "ID",
-   17
+   19
   ],
   [
    "SE",
-   15
+   17
+  ],
+  [
+   "NL",
+   17
+  ],
+  [
+   "ID",
+   16
   ],
   [
    "EC",
    13
   ],
   [
+   "VN",
+   12
+  ],
+  [
    "TH",
    11
   ],
   [
-   "VN",
-   11
+   "GB",
+   8
   ],
   [
    "AR",
@@ -1011,7 +1000,7 @@
   ],
   [
    "FI",
-   3
+   4
   ],
   [
    "MY",
@@ -1036,22 +1025,6 @@
   [
    "ET",
    2
-  ],
-  [
-   "BO",
-   1
-  ],
-  [
-   "KZ",
-   1
-  ],
-  [
-   "PY",
-   1
-  ],
-  [
-   "CD",
-   1
   ],
   [
    "RW",
@@ -1086,5 +1059,5 @@
    1
   ]
  ],
- "d7_human_req": 13095
+ "d7_human_req": 10698
 }
