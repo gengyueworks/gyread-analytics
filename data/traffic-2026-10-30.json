@@ -1,113 +1,181 @@
 {
  "date": "2026-10-30",
- "requests_total": 544,
+ "requests_total": 10268,
  "by_type": {
-  "human": 136,
-  "bot": 23,
-  "own": 376,
-  "script": 0,
-  "other": 9,
-  "empty": 0
+  "human": 2467,
+  "bot": 477,
+  "own": 7168,
+  "script": 1,
+  "other": 149,
+  "empty": 6
  },
- "unique_human_ips": 6,
- "unique_bot_ips": 9,
- "unique_own_ips": 1,
- "unique_scanner_ips": 0,
+ "unique_human_ips": 114,
+ "unique_bot_ips": 68,
+ "unique_own_ips": 2,
+ "unique_scanner_ips": 9,
  "unique_suspect_ips": 0,
  "countries": {
+  "ES": {
+   "ips": 1,
+   "requests": 555
+  },
   "CN": {
+   "ips": 14,
+   "requests": 171
+  },
+  "CL": {
+   "ips": 1,
+   "requests": 546
+  },
+  "BE": {
+   "ips": 3,
+   "requests": 12
+  },
+  "SG": {
+   "ips": 10,
+   "requests": 15
+  },
+  "NL": {
    "ips": 2,
-   "requests": 80
+   "requests": 9
+  },
+  "DE": {
+   "ips": 8,
+   "requests": 10
+  },
+  "US": {
+   "ips": 46,
+   "requests": 83
+  },
+  "KR": {
+   "ips": 6,
+   "requests": 6
+  },
+  "JP": {
+   "ips": 6,
+   "requests": 12
+  },
+  "HK": {
+   "ips": 3,
+   "requests": 3
+  },
+  "PH": {
+   "ips": 3,
+   "requests": 3
+  },
+  "ID": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BR": {
+   "ips": 4,
+   "requests": 5
+  },
+  "VN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "RS": {
+   "ips": 1,
+   "requests": 1
   },
   "FR": {
    "ips": 1,
    "requests": 1
-  },
-  "US": {
-   "ips": 3,
-   "requests": 3
   }
  },
  "top_pages": [
   [
-   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
-   1
-  ],
-  [
    "/",
-   1
-  ],
-  [
-   "/assets/covers/cover-timeline.webp",
-   1
-  ],
-  [
-   "/news/assets/fonts/inter-variable.woff2",
-   1
-  ],
-  [
-   "/assets/fonts/fonts.css",
-   1
-  ],
-  [
-   "/news/2026-10-28",
-   1
-  ],
-  [
-   "/favicon.ico",
-   1
-  ],
-  [
-   "/news/assets/fonts/jetbrains-mono-variable.woff2",
-   1
-  ],
-  [
-   "/news/2026-10-26",
-   1
-  ],
-  [
-   "/assets/covers/cover-deep.webp",
-   1
-  ],
-  [
-   "/news/2026-10/2026-10-26.html",
-   1
-  ],
-  [
-   "/assets/covers/cover-news.webp",
-   1
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-24.display.webp",
-   1
-  ],
-  [
-   "/assets/earth-horizon-panorama.webp",
-   1
-  ],
-  [
-   "/news/glossary/glossary.css",
-   1
-  ],
-  [
-   "/news/assets/css/main.css",
-   1
-  ],
-  [
-   "/assets/fonts/jetbrains-mono-variable.woff2",
-   1
-  ],
-  [
-   "/news/glossary/glossary.js",
-   1
-  ],
-  [
-   "/assets/fonts/inter-variable.woff2",
-   1
+   6
   ],
   [
    "/timeline/",
-   1
+   5
+  ],
+  [
+   "/contact",
+   5
+  ],
+  [
+   "/news/",
+   4
+  ],
+  [
+   "/news/assets/css/theme.css",
+   4
+  ],
+  [
+   "/terms",
+   4
+  ],
+  [
+   "/refund",
+   4
+  ],
+  [
+   "/news/glossary/glossary.js",
+   3
+  ],
+  [
+   "/deep/envelope-emergent-klein.webp",
+   3
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
+   3
+  ],
+  [
+   "/privacy",
+   3
+  ],
+  [
+   "/gcp-sa.json",
+   2
+  ],
+  [
+   "/key.json",
+   2
+  ],
+  [
+   "/_environment",
+   2
+  ],
+  [
+   "/keyfile.json",
+   2
+  ],
+  [
+   "/.config/gcloud/application_default_credentials.json",
+   2
+  ],
+  [
+   "/firebase-key.json",
+   2
+  ],
+  [
+   "/firebase-adminsdk.json",
+   2
+  ],
+  [
+   "/phpinfo",
+   2
+  ],
+  [
+   "/service-account.json",
+   2
   ]
  ]
 }

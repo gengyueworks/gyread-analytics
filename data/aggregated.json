@@ -1,120 +1,115 @@
 {
- "generated_at": "2026-10-30 09:05:29",
- "latest_date": "2026-10-29",
- "today_date": "2026-10-30",
- "today_human_ips": 6,
- "today_human_req": 84,
+ "generated_at": "2026-10-31 09:05:15",
+ "latest_date": "2026-10-30",
+ "today_date": "2026-10-31",
+ "today_human_ips": 1,
+ "today_human_req": 1,
  "today_is_partial": true,
- "latest_human_ips": 130,
- "latest_scanner_ips": 3,
+ "latest_human_ips": 114,
+ "latest_scanner_ips": 9,
  "latest_suspect_ips": 0,
  "latest_countries": 20,
  "new_countries": [
-  "CH",
-  "ET",
-  "FI",
-  "RO",
-  "VN"
+  "CA",
+  "CL",
+  "CR",
+  "ES",
+  "PH",
+  "RS",
+  "VE"
  ],
  "latest_by_type": {
-  "human": 1324,
-  "bot": 508,
-  "own": 6649,
-  "script": 0,
-  "other": 163,
-  "empty": 11
+  "human": 2467,
+  "bot": 477,
+  "own": 7168,
+  "script": 1,
+  "other": 149,
+  "empty": 6
  },
- "prev_human_ips": 121,
+ "prev_human_ips": 130,
  "cc": {
-  "FR": {
-   "ips": 3,
-   "requests": 450
+  "ES": {
+   "ips": 1,
+   "requests": 555
   },
   "CN": {
-   "ips": 20,
-   "requests": 90
+   "ips": 14,
+   "requests": 171
+  },
+  "CL": {
+   "ips": 1,
+   "requests": 546
   },
   "BE": {
-   "ips": 6,
-   "requests": 11
+   "ips": 3,
+   "requests": 12
   },
   "SG": {
-   "ips": 14,
-   "requests": 16
-  },
-  "DE": {
-   "ips": 9,
-   "requests": 17
-  },
-  "JP": {
-   "ips": 6,
-   "requests": 7
-  },
-  "BR": {
-   "ips": 7,
-   "requests": 10
-  },
-  "US": {
-   "ips": 42,
-   "requests": 67
-  },
-  "CH": {
-   "ips": 1,
-   "requests": 23
-  },
-  "SE": {
-   "ips": 2,
-   "requests": 2
-  },
-  "KR": {
-   "ips": 5,
-   "requests": 5
+   "ips": 10,
+   "requests": 15
   },
   "NL": {
    "ips": 2,
-   "requests": 3
+   "requests": 9
   },
-  "VN": {
-   "ips": 3,
-   "requests": 3
+  "DE": {
+   "ips": 8,
+   "requests": 10
   },
-  "RO": {
-   "ips": 1,
-   "requests": 1
+  "US": {
+   "ips": 46,
+   "requests": 83
   },
-  "TW": {
-   "ips": 1,
-   "requests": 1
+  "KR": {
+   "ips": 6,
+   "requests": 6
   },
-  "ET": {
-   "ips": 1,
-   "requests": 2
-  },
-  "ID": {
-   "ips": 1,
-   "requests": 1
+  "JP": {
+   "ips": 6,
+   "requests": 12
   },
   "HK": {
    "ips": 3,
    "requests": 3
   },
-  "FI": {
-   "ips": 2,
-   "requests": 2
+  "PH": {
+   "ips": 3,
+   "requests": 3
   },
-  "TH": {
+  "ID": {
+   "ips": 1,
+   "requests": 1
+  },
+  "VE": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CR": {
+   "ips": 1,
+   "requests": 1
+  },
+  "BR": {
+   "ips": 4,
+   "requests": 5
+  },
+  "VN": {
+   "ips": 1,
+   "requests": 1
+  },
+  "CA": {
+   "ips": 1,
+   "requests": 1
+  },
+  "RS": {
+   "ips": 1,
+   "requests": 1
+  },
+  "FR": {
    "ips": 1,
    "requests": 1
   }
  },
  "daily": [
-  {
-   "date": "2026-10-01",
-   "human_ips": 196,
-   "human_req": 1267,
-   "bot_ips": 793,
-   "own_ips": 0
-  },
   {
    "date": "2026-10-02",
    "human_ips": 214,
@@ -313,31 +308,34 @@
   },
   {
    "date": "2026-10-30",
-   "human_ips": 6,
-   "human_req": 84,
-   "bot_ips": 9,
-   "own_ips": 1
+   "human_ips": 114,
+   "human_req": 1437,
+   "bot_ips": 68,
+   "own_ips": 2
+  },
+  {
+   "date": "2026-10-31",
+   "human_ips": 1,
+   "human_req": 1,
+   "bot_ips": 5,
+   "own_ips": 3
   }
  ],
  "top_pages": [
   [
-   "/timeline/",
-   7
+   "/",
+   6
   ],
   [
-   "/timeline/story.html",
+   "/timeline/",
    5
   ],
   [
-   "/",
-   4
+   "/contact",
+   5
   ],
   [
    "/news/",
-   4
-  ],
-  [
-   "/news/assets/js/ai-news-theme.js",
    4
   ],
   [
@@ -345,59 +343,63 @@
    4
   ],
   [
-   "/news/2026-10-25",
-   3
+   "/terms",
+   4
   ],
   [
-   "/news/2026-10/2026-10-17.html",
-   3
-  ],
-  [
-   "/news/2026-10-17",
-   3
-  ],
-  [
-   "/news/2026-10/2026-10-18.html",
-   3
-  ],
-  [
-   "/news/2026-10-10",
-   3
+   "/refund",
+   4
   ],
   [
    "/news/glossary/glossary.js",
    3
   ],
   [
-   "/news/glossary/glossary.css",
+   "/deep/envelope-emergent-klein.webp",
    3
   ],
   [
-   "/news/glossary/ai-dictionary-lite-inline.js",
+   "/news/assets/js/ai-news-theme.js",
    3
   ],
   [
-   "/pricing",
+   "/privacy",
+   3
+  ],
+  [
+   "/gcp-sa.json",
    2
   ],
   [
-   "/news/2026-10-27",
+   "/key.json",
    2
   ],
   [
-   "/news/2026-10/2026-10-27.html",
+   "/_environment",
    2
   ],
   [
-   "/news/2026-10-15",
+   "/keyfile.json",
    2
   ],
   [
-   "/news/2026-10-18",
+   "/.config/gcloud/application_default_credentials.json",
    2
   ],
   [
-   "/news/2026-10/2026-10-25.html",
+   "/firebase-key.json",
+   2
+  ],
+  [
+   "/firebase-adminsdk.json",
+   2
+  ],
+  [
+   "/phpinfo",
+   2
+  ],
+  [
+   "/service-account.json",
    2
   ]
  ],
@@ -405,11 +407,11 @@
  "total_page_tot": [
   [
    "/",
-   360
+   342
   ],
   [
    "/timeline/",
-   211
+   208
   ],
   [
    "/news/",
@@ -417,27 +419,27 @@
   ],
   [
    "/assets/fonts/fonts.css",
-   120
+   119
   ],
   [
    "/pricing",
-   107
+   103
   ],
   [
    "/favicon.ico",
-   102
+   101
   ],
   [
    "/contact",
+   92
+  ],
+  [
+   "/news/assets/js/ai-news-theme.js",
    91
   ],
   [
    "/assets/fonts/jetbrains-mono-variable.woff2",
-   88
-  ],
-  [
-   "/news/assets/js/ai-news-theme.js",
-   88
+   87
   ],
   [
    "/guide/pay",
@@ -445,7 +447,11 @@
   ],
   [
    "/assets/fonts/inter-variable.woff2",
-   81
+   80
+  ],
+  [
+   "/news/assets/css/theme.css",
+   77
   ],
   [
    "/assets/covers/cover-luminous.webp",
@@ -456,130 +462,130 @@
    73
   ],
   [
-   "/news/assets/css/theme.css",
-   73
-  ],
-  [
    "/assets/covers/cover-timeline.webp",
-   71
-  ],
-  [
-   "/assets/covers/cover-news.webp",
-   68
+   70
   ],
   [
    "/news/assets/fonts/fonts.css",
    68
   ],
   [
-   "/account",
+   "/assets/covers/cover-news.webp",
    67
   ],
   [
-   "/privacy",
+   "/account",
    63
   ],
   [
-   "/terms",
-   60
+   "/privacy",
+   62
   ],
   [
-   "/news/assets/css/main.css",
+   "/terms",
    59
   ],
   [
+   "/news/assets/css/main.css",
+   58
+  ],
+  [
    "/news/assets/fonts/jetbrains-mono-variable.woff2",
-   57
-  ],
-  [
-   "/news/assets/fonts/inter-variable.woff2",
-   57
-  ],
-  [
-   "/refund",
    56
   ],
   [
+   "/news/assets/fonts/inter-variable.woff2",
+   56
+  ],
+  [
+   "/refund",
+   55
+  ],
+  [
    "/assets/apod/curiosity/apod-pool-24.display.webp",
-   54
+   53
   ],
   [
    "/news/glossary/glossary.js",
-   49
-  ],
-  [
-   "/assets/covers/cover-deep.webp",
-   45
+   51
   ],
   [
    "/assets/covers/cover-ncr-vault.webp",
    45
   ],
   [
+   "/assets/covers/cover-deep.webp",
+   44
+  ],
+  [
    "/news/glossary/ai-dictionary-lite-inline.js",
    42
   ],
   [
-   "/news/glossary/glossary.css",
-   38
+   "/deep/envelope-emergent-klein.webp",
+   40
   ]
  ],
  "total_cc_req": [
   [
    "US",
-   86894
+   86402
   ],
   [
    "CN",
-   7940
+   8007
   ],
   [
    "SG",
-   3933
+   3895
   ],
   [
    "PL",
-   3537
+   3536
   ],
   [
    "DE",
-   1754
+   1739
   ],
   [
    "CA",
-   1509
+   1141
   ],
   [
-   "JP",
-   921
+   "CL",
+   1123
   ],
   [
    "FR",
-   847
+   831
+  ],
+  [
+   "JP",
+   796
+  ],
+  [
+   "ES",
+   695
   ],
   [
    "IN",
    688
   ],
   [
-   "CL",
-   578
-  ],
-  [
    "BR",
-   570
-  ],
-  [
-   "HK",
-   564
+   563
   ],
   [
    "NL",
-   554
+   558
+  ],
+  [
+   "HK",
+   556
   ],
   [
    "BE",
-   340
+   348
   ],
   [
    "QA",
@@ -587,7 +593,7 @@
   ],
   [
    "GB",
-   247
+   243
   ],
   [
    "IL",
@@ -599,19 +605,15 @@
   ],
   [
    "KR",
-   196
+   194
   ],
   [
    "RO",
-   163
-  ],
-  [
-   "ES",
-   146
+   160
   ],
   [
    "VN",
-   126
+   127
   ],
   [
    "CO",
@@ -623,11 +625,11 @@
   ],
   [
    "SE",
-   89
+   87
   ],
   [
    "ID",
-   82
+   79
   ],
   [
    "BD",
@@ -654,32 +656,28 @@
    58
   ],
   [
-   "TR",
-   54
-  ],
-  [
    "VE",
-   54
+   55
   ],
   [
-   "TH",
-   45
+   "TR",
+   52
   ],
   [
    "CH",
    44
   ],
   [
+   "TH",
+   40
+  ],
+  [
    "AE",
-   38
+   37
   ],
   [
    "UA",
    30
-  ],
-  [
-   "PT",
-   26
   ],
   [
    "KZ",
@@ -692,6 +690,10 @@
   [
    "IT",
    26
+  ],
+  [
+   "PT",
+   25
   ],
   [
    "FI",
@@ -730,6 +732,10 @@
    12
   ],
   [
+   "PH",
+   12
+  ],
+  [
    "KE",
    11
   ],
@@ -742,6 +748,10 @@
    11
   ],
   [
+   "CR",
+   10
+  ],
+  [
    "CI",
    10
   ],
@@ -750,98 +760,86 @@
    10
   ],
   [
-   "CR",
-   9
-  ],
-  [
    "MA",
    9
   ],
   [
    "KW",
    9
-  ],
-  [
-   "PH",
-   9
   ]
  ],
- "total_human_req": 113778,
- "total_bot_req": 85848,
- "total_own_req": 85470,
+ "total_human_req": 113865,
+ "total_bot_req": 83998,
+ "total_own_req": 92595,
  "total_cc_count": 60,
  "d7_days": 7,
  "d7_page_tot": [
   [
    "/",
-   61
+   48
   ],
   [
    "/timeline/",
-   39
+   35
   ],
   [
    "/news/",
-   33
-  ],
-  [
-   "/assets/apod/curiosity/apod-pool-24.display.webp",
-   22
+   28
   ],
   [
    "/news/assets/js/ai-news-theme.js",
-   21
-  ],
-  [
-   "/assets/fonts/fonts.css",
-   21
+   20
   ],
   [
    "/assets/apod/curiosity/apod-daily-20261024.display.webp",
-   21
+   18
   ],
   [
-   "/assets/covers/cover-dict.webp",
-   16
+   "/assets/apod/curiosity/apod-pool-24.display.webp",
+   18
   ],
   [
-   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
-   16
-  ],
-  [
-   "/assets/fonts/inter-variable.woff2",
+   "/assets/fonts/fonts.css",
    16
   ],
   [
    "/assets/covers/cover-timeline.webp",
-   16
+   15
   ],
   [
    "/assets/covers/cover-news.webp",
-   16
+   15
   ],
   [
-   "/assets/fonts/jetbrains-mono-variable.woff2",
+   "/news/assets/css/theme.css",
    15
   ],
   [
    "/contact",
+   15
+  ],
+  [
+   "/assets/covers/cover-dict.webp",
    13
   ],
   [
-   "/assets/covers/cover-luminous.webp",
+   "/assets/apod/curiosity/apod-daily-20261023.display.webp",
    13
   ],
   [
-   "/assets/apod/curiosity/apod-daily-20261020.display.webp",
+   "/assets/fonts/inter-variable.woff2",
    12
   ],
   [
-   "/assets/covers/cover-deep.webp",
-   12
+   "/assets/fonts/jetbrains-mono-variable.woff2",
+   11
   ],
   [
    "/assets/apod/curiosity/apod-pool-29.display.webp",
+   11
+  ],
+  [
+   "/assets/covers/cover-deep.webp",
    11
   ],
   [
@@ -853,15 +851,7 @@
    11
   ],
   [
-   "/news/assets/css/theme.css",
-   11
-  ],
-  [
-   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
-   11
-  ],
-  [
-   "/pricing",
+   "/assets/covers/cover-luminous.webp",
    10
   ],
   [
@@ -869,15 +859,15 @@
    10
   ],
   [
-   "/guide/pay",
+   "/assets/apod/curiosity/apod-daily-20261025.display.webp",
+   10
+  ],
+  [
+   "/assets/apod/curiosity/apod-daily-20261020.display.webp",
    9
   ],
   [
-   "/account",
-   8
-  ],
-  [
-   "/news/assets/css/main.css",
+   "/news/glossary/glossary.js",
    8
   ],
   [
@@ -885,34 +875,50 @@
    7
   ],
   [
+   "/news/assets/css/main.css",
+   7
+  ],
+  [
    "/news/2026-10-25",
    6
   ],
   [
-   "/news/glossary/glossary.js",
-   6
+   "/timeline/story.html",
+   5
+  ],
+  [
+   "/news/assets/fonts/jetbrains-mono-variable.woff2",
+   4
+  ],
+  [
+   "/news/letter.html",
+   4
   ]
  ],
  "d7_cc_req": [
   [
    "US",
-   6736
+   3869
+  ],
+  [
+   "CL",
+   1096
   ],
   [
    "CN",
-   870
+   865
+  ],
+  [
+   "ES",
+   555
   ],
   [
    "IN",
    552
   ],
   [
-   "CL",
-   550
-  ],
-  [
    "FR",
-   549
+   526
   ],
   [
    "PL",
@@ -920,23 +926,19 @@
   ],
   [
    "SG",
-   237
+   226
   ],
   [
    "CA",
-   167
-  ],
-  [
-   "DE",
-   119
+   111
   ],
   [
    "BE",
-   85
+   84
   ],
   [
-   "CO",
-   48
+   "DE",
+   70
   ],
   [
    "TW",
@@ -944,38 +946,38 @@
   ],
   [
    "JP",
-   39
+   38
+  ],
+  [
+   "CO",
+   33
   ],
   [
    "BR",
-   36
+   31
   ],
   [
    "KR",
-   34
+   28
   ],
   [
-   "HK",
-   28
+   "NL",
+   25
   ],
   [
    "CH",
    23
   ],
   [
+   "HK",
+   20
+  ],
+  [
    "BD",
-   19
+   17
   ],
   [
    "SE",
-   17
-  ],
-  [
-   "NL",
-   17
-  ],
-  [
-   "ID",
    16
   ],
   [
@@ -984,14 +986,14 @@
   ],
   [
    "VN",
-   12
+   10
+  ],
+  [
+   "ID",
+   9
   ],
   [
    "TH",
-   11
-  ],
-  [
-   "GB",
    8
   ],
   [
@@ -999,16 +1001,20 @@
    7
   ],
   [
+   "GB",
+   6
+  ],
+  [
    "FI",
+   4
+  ],
+  [
+   "PH",
    4
   ],
   [
    "MY",
    3
-  ],
-  [
-   "OM",
-   2
   ],
   [
    "TR",
@@ -1027,23 +1033,11 @@
    2
   ],
   [
-   "RW",
-   1
-  ],
-  [
-   "RU",
-   1
-  ],
-  [
    "LB",
    1
   ],
   [
    "AE",
-   1
-  ],
-  [
-   "PH",
    1
   ],
   [
@@ -1057,7 +1051,19 @@
   [
    "RO",
    1
+  ],
+  [
+   "VE",
+   1
+  ],
+  [
+   "CR",
+   1
+  ],
+  [
+   "RS",
+   1
   ]
  ],
- "d7_human_req": 10698
+ "d7_human_req": 8745
 }

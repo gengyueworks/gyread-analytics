@@ -1,0 +1,29 @@
+{
+ "date": "2026-10-31",
+ "requests_total": 402,
+ "by_type": {
+  "human": 51,
+  "bot": 11,
+  "own": 333,
+  "script": 0,
+  "other": 7,
+  "empty": 0
+ },
+ "unique_human_ips": 1,
+ "unique_bot_ips": 5,
+ "unique_own_ips": 3,
+ "unique_scanner_ips": 1,
+ "unique_suspect_ips": 0,
+ "countries": {
+  "CN": {
+   "ips": 1,
+   "requests": 1
+  }
+ },
+ "top_pages": [
+  [
+   "/timeline/",
+   1
+  ]
+ ]
+}
